@@ -1,0 +1,2022 @@
+[  
+    {  
+       "_id":"59b6b51fd8b2d3f53d41fdf1",
+       "genre":"ComÃ©die",
+       "collection":null,
+       "title":"Just For Laughs",
+       "mltitle":"Juste pour rire",
+       "cast":"",
+       "synopsis":"Blagues et canulars Ã  des gens normaux \"juste pour rire\".",
+       "distributor":null,
+       "versions":null,
+       "dubLanguages":[  
+          "English"
+       ],
+       "subLanguages":[  
+ 
+       ],
+       "MPAARating":"PG",
+       "metacriticRating":null,
+       "rottenTomatoesRating":null,
+       "internationalRating":null,
+       "dates":null,
+       "kidSafe":false,
+       "origin":null,
+       "posterImage300x450":"KQ_0917_JustForLaughs_300x450.jpg",
+       "posterImage600x900":"KQ_0917_JustForLaughs_600x900.jpg",
+       "sliderImage1024x400":"KQ_0917_JustForLaughs_1024x400.jpg",
+       "client":"598b204a4ed0ef0100cecb44",
+       "createdAt":"2017-09-11T16:09:03.054Z",
+       "updatedAt":"2017-09-13T15:36:28.211Z",
+       "uuid":"923f9f5724ba5cf051a29e46e3d87b095d6432a2",
+       "episodes":[  
+          {  
+             "collection":"Episodes",
+             "seasonNumber":15,
+             "episodeNumber":7,
+             "duration":30,
+             "title":"Episode 7",
+             "mltitle":"Episode 7",
+             "synopsis":"Blagues et canulars Ã  des gens normaux \"juste pour rire\".",
+             "client":"598b204a4ed0ef0100cecb44",
+             "createdAt":"2017-09-11T16:09:03.075Z",
+             "updatedAt":"2017-09-13T15:36:28.238Z",
+             "contentId":"urn:marlin:kid:e158670e2a5e62a0548be4f22b48d39e",
+             "cycle":[  
+                "59b6b51fb14852010029056b"
+             ],
+             "media":{  
+                "source":"",
+                "type":""
+             },
+             "stillImage":"",
+             "__v":1,
+             "kid":"9aff55e6f8389cd6a484756f43e0ed63",
+             "encryptedKEK":"LOihWROjJuDnrwIy3MwJou7IFf6f/xaXMo7g7QXXa1swSWgSKiNQIACGrzMvzNvgdLtsAIIFfizhjoooRuEYnHAr1/n4Pi/5lj/JzNc+UPKDJ9jxTrMeamtgpVAVDzs8YpPsRpw03vBeOX/S+fa2El3G3tlbb4B+eGxuopo16ywQJGjxBeeDHqg9tSo9Rk0y2iq7JqLxVLxin5v83Ak5x+zcya0/KQpKeFStc3OrwRrDhq+fu13npkTJ5D6MOEzzNuCMCm3DoKPv1I9lkVpgzOsdp3q3htb387PHa1YKDeciQKtukembejiuhKvnEf94juHbQ/voTgIglFIKcIFaGg==",
+             "ms3Url":"https%3A%2F%2Fifd.aero%2Fms3%2Fv1%2Fmedia%2Ftvs%2Fuuid%2F923f9f5724ba5cf051a29e46e3d87b095d6432a2%2Fseason%2F15%2Fepisode%2F7%23http%3A%2F%2Fifd.aero%2Fapi%2Fmedia%2Ftvs%2Ftvs_justforlaughs_15_7_923f9f5724ba5cf051a29e46e3d87b095d6432a2%2Fmaster.m3u8",
+             "category":"",
+             "genre":"",
+             "cast":"",
+             "director":""
+          }
+       ],
+       "category":"",
+       "director":""
+    },
+    {  
+       "_id":"59b6b51fd8b2d3f53d41fdf3",
+       "genre":"Enfants",
+       "collection":null,
+       "title":"The Flintstones",
+       "mltitle":"Les Pierrafeu",
+       "cast":"",
+       "synopsis":"Un accident change Fred complÃ¨tement, plus personne ne le reconnaÃ®t.",
+       "distributor":null,
+       "versions":null,
+       "dubLanguages":[  
+          "English"
+       ],
+       "subLanguages":[  
+ 
+       ],
+       "MPAARating":"G",
+       "metacriticRating":null,
+       "rottenTomatoesRating":null,
+       "internationalRating":null,
+       "dates":null,
+       "kidSafe":true,
+       "origin":null,
+       "posterImage300x450":"KQ_0917_TheFlintstones_300x450.jpg",
+       "posterImage600x900":"KQ_0917_TheFlintstones_600x900.jpg",
+       "sliderImage1024x400":"KQ_0917_TheFlintstones_1024x400.jpg",
+       "client":"598b204a4ed0ef0100cecb44",
+       "createdAt":"2017-09-11T16:09:03.054Z",
+       "updatedAt":"2017-09-13T15:36:28.214Z",
+       "uuid":"ef10ccbfefe0cf6abe196bcfe2d2e6cbec079eac",
+       "episodes":[  
+          {  
+             "collection":"Episodes",
+             "seasonNumber":1,
+             "episodeNumber":5,
+             "duration":30,
+             "title":"Split Personality",
+             "mltitle":"DÃ©doublement de personnalitÃ©",
+             "synopsis":"Un accident change Fred complÃ¨tement, plus personne ne le reconnaÃ®t.",
+             "client":"598b204a4ed0ef0100cecb44",
+             "createdAt":"2017-09-11T16:09:03.074Z",
+             "updatedAt":"2017-09-13T15:36:28.237Z",
+             "contentId":"urn:marlin:kid:7f3c92264a568a401b1c6d478805bdb3",
+             "cycle":[  
+                "59b6b51fb14852010029056b"
+             ],
+             "kid":"abf0141087cc084d7590a9c9f92f7290",
+             "encryptedKEK":"kovVA8P2w7y2uLxLqkfuQhFW+8SVAkUmvL7Z23Ga8RdxYj7hFh+PJCs3sEFpXRGmR/QFF99/z0arcj0hHJ/qEJh5r68fA6V0JOnJGKC8xjBL24cXUm9yDdwamUVgL1hIPJRenuA/4pG4Rws4++7hRW0i2TQ8d3j9cxNtj5bQLp2TJmvWhgk0/1JOHyFhIHcnEuLcytEoNCSHvWK2hinNkA967Mdo3Kec3r59f+Ino2Fvdpb77OFGNyxY0oyYJWpUhtLPHdVRLBmIVMlWvusQyvtTgGOTj5Io1Bev9jns5w/SS4SmzQUQUOm+FsPmTwSelUSwWCXNs9zXkU3qUIw3Tw==",
+             "ms3Url":"https%3A%2F%2Fifd.aero%2Fms3%2Fv1%2Fmedia%2Ftvs%2Fuuid%2Fef10ccbfefe0cf6abe196bcfe2d2e6cbec079eac%2Fseason%2F1%2Fepisode%2F5%23http%3A%2F%2Fifd.aero%2Fapi%2Fmedia%2Ftvs%2Ftvs_theflintstones_1_5_ef10ccbfefe0cf6abe196bcfe2d2e6cbec079eac%2Fmaster.m3u8",
+             "category":"",
+             "genre":"",
+             "cast":"",
+             "director":""
+          }
+       ],
+       "category":"",
+       "director":""
+    },
+    {  
+       "_id":"59b6b51fd8b2d3f53d41fdf5",
+       "genre":"Mode de vie, RÃ©alitÃ©, Voyage",
+       "collection":null,
+       "title":"On the Road",
+       "mltitle":"On the Road",
+       "cast":"",
+       "synopsis":"Wanja Mungai amÃ¨ne des spectateurs dans trois nouveaux endroits chaque semaine pour dÃ©couvrir les destinations africaines les plus intÃ©ressantes.",
+       "distributor":null,
+       "versions":null,
+       "dubLanguages":[  
+          "English"
+       ],
+       "subLanguages":[  
+ 
+       ],
+       "MPAARating":"PG-13",
+       "metacriticRating":null,
+       "rottenTomatoesRating":null,
+       "internationalRating":null,
+       "dates":null,
+       "kidSafe":false,
+       "origin":null,
+       "posterImage300x450":"KQ_0917_OnTheRoad_300x450.jpg",
+       "posterImage600x900":"KQ_0917_OnTheRoad_600x900.jpg",
+       "sliderImage1024x400":"KQ_0917_OnTheRoad_1024x400.jpg",
+       "client":"598b204a4ed0ef0100cecb44",
+       "createdAt":"2017-09-11T16:09:03.055Z",
+       "updatedAt":"2017-09-13T15:36:28.215Z",
+       "uuid":"09a4f5d265ac4d24f0c9ed78dc683939c22ed6c5",
+       "episodes":[  
+          {  
+             "collection":"Episodes",
+             "seasonNumber":1,
+             "episodeNumber":2,
+             "duration":30,
+             "title":"Seychelles Beachlife, Mauritius Komiko, Kenya Koroga Festival",
+             "mltitle":"Style de Vie de Seychelles, Mauritius Komiko, Festival de Kenya Koroga",
+             "synopsis":"Wanja Mungai amÃ¨ne des spectateurs dans trois nouveaux endroits chaque semaine pour dÃ©couvrir les destinations africaines les plus intÃ©ressantes.",
+             "client":"598b204a4ed0ef0100cecb44",
+             "createdAt":"2017-09-11T16:09:03.079Z",
+             "updatedAt":"2017-09-13T15:36:28.238Z",
+             "contentId":"urn:marlin:kid:75136a5c5628f73399b989e324163ff0",
+             "cycle":[  
+                "59b6b51fb14852010029056b"
+             ],
+             "media":{  
+                "source":"",
+                "type":""
+             },
+             "stillImage":"",
+             "__v":1,
+             "kid":"a8359dc1e1d2b86c37bd99db30f385cb",
+             "encryptedKEK":"UmLIwf0hGZiqGkX/3+gs+gXG++Nzenb3tD1xV9xADk8zcru5ybr2Lfo/JSXsoWrnveL5r5R4xZWNbQ3bcVEIOi7BlE/udpCgxIwY261wFCZmBX1ekhs+zp3Noe9r01s3YH80VIt5Hq+ggauwbJ3xeekgRGV5u9mY5d9TKRXmuIu902THhbsE98lY1UsHsCOYdvMiBv7Sg7S8wJFgnqKx+0xlYePY2APotjsSiSq3UbI/GIOZH+P9z1mNdBAXW+tZmQX9QrYI4+9kS2MhEkObg6bpIOs8nzfAOlNNfXKPyOG8l4BIrR6jOU5eavmSzRmQqIdXvLpKHkK5ADOqoU5YKw==",
+             "ms3Url":"https%3A%2F%2Fifd.aero%2Fms3%2Fv1%2Fmedia%2Ftvs%2Fuuid%2F09a4f5d265ac4d24f0c9ed78dc683939c22ed6c5%2Fseason%2F1%2Fepisode%2F2%23http%3A%2F%2Fifd.aero%2Fapi%2Fmedia%2Ftvs%2Ftvs_ontheroad_1_2_09a4f5d265ac4d24f0c9ed78dc683939c22ed6c5%2Fmaster.m3u8",
+             "category":"",
+             "genre":"",
+             "cast":"",
+             "director":""
+          }
+       ],
+       "category":"",
+       "director":""
+    },
+    {  
+       "_id":"59b6b51fd8b2d3f53d41fdf7",
+       "genre":"Nature",
+       "collection":null,
+       "title":"Great Migrations",
+       "mltitle":"Great Migrations",
+       "cast":"",
+       "synopsis":"Avancer pour vivre couvre le monde entier et rÃ©vÃ¨le quatre mouvements animaliers des plus remarquables.",
+       "distributor":null,
+       "versions":null,
+       "dubLanguages":[  
+          "English"
+       ],
+       "subLanguages":[  
+ 
+       ],
+       "MPAARating":"PG-13",
+       "metacriticRating":null,
+       "rottenTomatoesRating":null,
+       "internationalRating":null,
+       "dates":null,
+       "kidSafe":false,
+       "origin":null,
+       "posterImage300x450":"KQ_0917_GreatMigrations_300x450.jpg",
+       "posterImage600x900":"KQ_0917_GreatMigrations_600x900.jpg",
+       "sliderImage1024x400":"KQ_0917_GreatMigrations_1024x400.jpg",
+       "client":"598b204a4ed0ef0100cecb44",
+       "createdAt":"2017-09-11T16:09:03.055Z",
+       "updatedAt":"2017-09-13T15:36:28.216Z",
+       "uuid":"6532f55598f060c602fefb32bf3568dfa27ffba1",
+       "episodes":[  
+          {  
+             "collection":"Episodes",
+             "seasonNumber":1,
+             "episodeNumber":1,
+             "duration":60,
+             "title":"Born to Move",
+             "mltitle":"Avancer pour vivre",
+             "synopsis":"Avancer pour vivre couvre le monde entier et rÃ©vÃ¨le quatre mouvements animaliers des plus remarquables.",
+             "client":"598b204a4ed0ef0100cecb44",
+             "createdAt":"2017-09-11T16:09:03.076Z",
+             "updatedAt":"2017-09-13T15:36:28.239Z",
+             "contentId":"urn:marlin:kid:7243138fd04d9cb194f294256bb3b701",
+             "cycle":[  
+                "59b6b51fb14852010029056b"
+             ],
+             "kid":"173c23d7e2384e2af6dd4d1dfc3e6ea4",
+             "encryptedKEK":"Rfc/RibBSZlXptNTy7DgQGS7bgsrCqHhGqGwSeOIqVtmj3rbsrPwoVYq2qWXwMWKN3gQIeZH7APflJd3rCGq7+60/IjpqNl1zddvWfJZvvJ/RJA9FpxTKXsBJ0JbKiyp+UI4OoZM+01Yydyz9C18Jv9ipSU+0XPrpzCg9W4q7ljef9Djlcl/4x2y+BW9SPzmwye/2tmgpLm137j8tAchQYx1w3JM8Q+0D/IXd/CDTTptUYXJcecxBG5WqgHx79lgCfQY8lMg702MugCTaK7xwOaIhUYUMIUGvP5cfynJSFCPXyX//9tByfnE1teoUd84T2IgS0c9XL2WU3TAlPWpKQ==",
+             "ms3Url":"https%3A%2F%2Fifd.aero%2Fms3%2Fv1%2Fmedia%2Ftvs%2Fuuid%2F6532f55598f060c602fefb32bf3568dfa27ffba1%2Fseason%2F1%2Fepisode%2F1%23http%3A%2F%2Fifd.aero%2Fapi%2Fmedia%2Ftvs%2Ftvs_greatmigrations_1_1_6532f55598f060c602fefb32bf3568dfa27ffba1%2Fmaster.m3u8",
+             "category":"",
+             "genre":"",
+             "cast":"",
+             "director":""
+          },
+          {  
+             "collection":"Episodes",
+             "seasonNumber":1,
+             "episodeNumber":2,
+             "duration":60,
+             "title":"Need to Breed",
+             "mltitle":"Assurer sa descendance",
+             "synopsis":"Chaque jours, les peuples migrateurs risquent tout pour ce qu'ils possÃ¨dent de plus prÃ©cieux : leurs progÃ©nitures Ã  qui ils donnent la vie, et qu'ils protÃ¨gent.",
+             "client":"598b204a4ed0ef0100cecb44",
+             "createdAt":"2017-09-11T16:09:03.078Z",
+             "updatedAt":"2017-09-13T15:36:28.235Z",
+             "contentId":"urn:marlin:kid:4004c56df701f309dab6408cc0489a04",
+             "cycle":[  
+                "59b6b51fb14852010029056b"
+             ],
+             "kid":"a894e539e0bc4f40c590595236865de9",
+             "encryptedKEK":"ofruJ848fGiB8bDgJMzWFhzCBq9ovB8r5nR4ZIhyCoQRJ3eTwHUyluTGkxUCnY4XSuoSYHthsZ8sY+1uZY5Su3Y/fGfWj8lHpObsAkl5NQN3gdDkyfsbzTX4qu/Y2bqxMWLtiF+8ZMb13YgMVJLmEUq96JJzyTbAaWg2JGWEQERW/e607QKAek263XobJzahrcsmCndDRGlhnnBo1ffJCUKKqj0j9jZ2QbGWPfHSfxtRmEPrQi51j7AXSYLY5fRF/NIdwP8y722/Fg0+jb/lp6tXZ7CfEkhg18lK+pnWi/8ON9QYHZo++ioM7MWC5aCuU5bQKKqYn/D0p6cywLyrjg==",
+             "ms3Url":"https%3A%2F%2Fifd.aero%2Fms3%2Fv1%2Fmedia%2Ftvs%2Fuuid%2F6532f55598f060c602fefb32bf3568dfa27ffba1%2Fseason%2F1%2Fepisode%2F2%23http%3A%2F%2Fifd.aero%2Fapi%2Fmedia%2Ftvs%2Ftvs_greatmigrations_1_2_6532f55598f060c602fefb32bf3568dfa27ffba1%2Fmaster.m3u8",
+             "category":"",
+             "genre":"",
+             "cast":"",
+             "director":""
+          },
+          {  
+             "collection":"Episodes",
+             "seasonNumber":1,
+             "episodeNumber":3,
+             "duration":60,
+             "title":"Race to Survive",
+             "mltitle":"Combattre pour survivre",
+             "synopsis":"Les migrateurs sont semblables Ã  des horloges : chaque jour, ils sont infiniment nombreux Ã  devoir partir ou mourir, suivant les nouvelles saisons et le climat qui change.",
+             "client":"598b204a4ed0ef0100cecb44",
+             "createdAt":"2017-09-11T16:09:03.079Z",
+             "updatedAt":"2017-09-13T15:36:28.237Z",
+             "contentId":"urn:marlin:kid:166c944d5132901a723f5301c1474d26",
+             "cycle":[  
+                "59b6b51fb14852010029056b"
+             ],
+             "kid":"2be7f1e42513a1423e77a662e95bbce9",
+             "encryptedKEK":"ECsymxxvmFg9moobV4rUs26jq4Zk6vETc0ZfG+oYGSyBhhKWVA85f7tQNHioI4frlCKFbMtlB5G1ETanBJGGSQqMS7QLhDxDj7kVY6qYMvsuWq9rIsxfLAUSkHYnCMzkyMwOuR+mw8jLj8XWu1boxg51+lfEVuoA1rg772sIl70SFDMjk/wWTk3hSNO6UbB3IJ9PB3YCE/BRqawERpBGynGQWvCVSDnxjBgKPBZvq04ES5NdZgDdc1qU0A8DT2F3VEo5u3d48h+gJAVzU8fBj2ia8329rfOEZ9LVQnkjZQ2ExjrMwTu3kgMGFDjw8L0KKwQQvQNPahY6iASx/5Js9Q==",
+             "ms3Url":"https%3A%2F%2Fifd.aero%2Fms3%2Fv1%2Fmedia%2Ftvs%2Fuuid%2F6532f55598f060c602fefb32bf3568dfa27ffba1%2Fseason%2F1%2Fepisode%2F3%23http%3A%2F%2Fifd.aero%2Fapi%2Fmedia%2Ftvs%2Ftvs_greatmigrations_1_3_6532f55598f060c602fefb32bf3568dfa27ffba1%2Fmaster.m3u8",
+             "category":"",
+             "genre":"",
+             "cast":"",
+             "director":""
+          }
+       ],
+       "category":"",
+       "director":""
+    },
+    {  
+       "_id":"59b6b51fd8b2d3f53d41fdf9",
+       "genre":"Affaires",
+       "collection":null,
+       "title":"The Africa Opportunity",
+       "mltitle":"The Africa Opportunity",
+       "cast":"",
+       "synopsis":"Un regard sur l'environnement actuel des affaires et de l'investissement en Afrique, avec des tables rondes du sommet africain Ã©conomique et des affaires Bloomberg.",
+       "distributor":null,
+       "versions":null,
+       "dubLanguages":[  
+          "English"
+       ],
+       "subLanguages":[  
+ 
+       ],
+       "MPAARating":"PG-13",
+       "metacriticRating":null,
+       "rottenTomatoesRating":null,
+       "internationalRating":null,
+       "dates":null,
+       "kidSafe":false,
+       "origin":null,
+       "posterImage300x450":"KQ_0917_TheAfricaOpportunity_300x450.jpg",
+       "posterImage600x900":"KQ_0917_TheAfricaOpportunity_600x900.jpg",
+       "sliderImage1024x400":"KQ_0917_TheAfricaOpportunity_1024x400.jpg",
+       "client":"598b204a4ed0ef0100cecb44",
+       "createdAt":"2017-09-11T16:09:03.055Z",
+       "updatedAt":"2017-09-13T15:36:28.209Z",
+       "uuid":"f46201588b5bfedf13385fe36ff974d275250c4f",
+       "episodes":[  
+          {  
+             "collection":"Episodes",
+             "seasonNumber":1,
+             "episodeNumber":0,
+             "duration":60,
+             "title":"One-Off",
+             "mltitle":"One-Off",
+             "synopsis":"Un regard sur l'environnement actuel des affaires et de l'investissement en Afrique, avec des tables rondes du sommet africain Ã©conomique et des affaires Bloomberg.",
+             "client":"598b204a4ed0ef0100cecb44",
+             "createdAt":"2017-09-11T16:09:03.075Z",
+             "updatedAt":"2017-09-13T15:36:28.236Z",
+             "contentId":"urn:marlin:kid:4de2bbf2f8e6496ca9a8436eb8f165e2",
+             "cycle":[  
+                "59b6b51fb14852010029056b"
+             ],
+             "kid":"64de4da39dfd5ec88bfe97973882f4c5",
+             "encryptedKEK":"YTTwnINWfXUf2i4E/WUFa+4wvLwG3tkCVKPV/0V8k2IhgHY+shSikkxrC7086cEzE6V8whvg/MElUCmYqSPLN9DNCIdQFftgajakMvbCGVGP1AYXNCXOGh2UIbX8z70GJUlniyEs7xaGtb5j+bwd7322ykjvapC2gwA/SbHRiE2f85y+eBbFjc0QFDVtiW7cUXQq8v589imZzCAQVkdYIXWOf8aK4MW8QIkUh4A/tB6UUmy21hgwG/VmzH3CfDC/AziE9+yKoT0qPwbMBv5NV46jo9f1Am24OdX6F0n7qej+bxUBNxP1tB/FNnyHXUQizsTL5rQeDO0qoguRJcQFxQ==",
+             "ms3Url":"https%3A%2F%2Fifd.aero%2Fms3%2Fv1%2Fmedia%2Ftvs%2Fuuid%2Ff46201588b5bfedf13385fe36ff974d275250c4f%2Fseason%2F1%2Fepisode%2F0%23http%3A%2F%2Fifd.aero%2Fapi%2Fmedia%2Ftvs%2Ftvs_theafricaopportunity_1_0_f46201588b5bfedf13385fe36ff974d275250c4f%2Fmaster.m3u8",
+             "category":"",
+             "genre":"",
+             "cast":"",
+             "director":""
+          }
+       ],
+       "category":"",
+       "director":""
+    },
+    {  
+       "_id":"59b6b51fd8b2d3f53d41fdfb",
+       "genre":"ComÃ©die",
+       "collection":null,
+       "title":"The Big Bang Theory",
+       "mltitle":"The Big Bang Theory",
+       "cast":"",
+       "synopsis":"Alors que sa vie connaÃ®t un nouveau tournant, Sheldon dÃ©cide de revenir en 2003, alors qu'il n'avait pas encore rencontrÃ© Penny et Leonard. Raj et Howard crÃ©ent un groupe de musique pour le magasin de bandes dessinÃ©es.",
+       "distributor":null,
+       "versions":null,
+       "dubLanguages":[  
+          "English"
+       ],
+       "subLanguages":[  
+ 
+       ],
+       "MPAARating":"PG-13",
+       "metacriticRating":null,
+       "rottenTomatoesRating":null,
+       "internationalRating":null,
+       "dates":null,
+       "kidSafe":false,
+       "origin":null,
+       "posterImage300x450":"KQ_0917_TheBigBangTheory_300x450.jpg",
+       "posterImage600x900":"KQ_0917_TheBigBangTheory_600x900.jpg",
+       "sliderImage1024x400":"KQ_0917_TheBigBangTheory_1024x400.jpg",
+       "client":"598b204a4ed0ef0100cecb44",
+       "createdAt":"2017-09-11T16:09:03.056Z",
+       "updatedAt":"2017-09-13T15:36:28.212Z",
+       "uuid":"336c51e380bfcff1fde11cf16a9e25f70363c014",
+       "episodes":[  
+          {  
+             "collection":"Episodes",
+             "seasonNumber":9,
+             "episodeNumber":4,
+             "duration":30,
+             "title":"The 2003 Approximation",
+             "mltitle":"Retour Ã  la case dÃ©part",
+             "synopsis":"Alors que sa vie connaÃ®t un nouveau tournant, Sheldon dÃ©cide de revenir en 2003, alors qu'il n'avait pas encore rencontrÃ© Penny et Leonard. Raj et Howard crÃ©ent un groupe de musique pour le magasin de bandes dessinÃ©es.",
+             "client":"598b204a4ed0ef0100cecb44",
+             "createdAt":"2017-09-11T16:09:03.077Z",
+             "updatedAt":"2017-09-13T15:36:28.233Z",
+             "cycle":[  
+                "59b6b51fb14852010029056b"
+             ],
+             "contentId":"urn:marlin:kid:7183c228f066c512244b9d9c1e929d31",
+             "kid":"7315ac4e61223407f7024961dd8ee6a7",
+             "encryptedKEK":"g3qLgVc4/ePb/Qtqx/bsJVoR+NctdwcR6vBMoIpzkWD9gy2o6bSY0yGRhCveIr/P1LwL8CrNEhhaO8xjBTeO9LbPQvw0PEaup+G1SvLyl5/3/DwIhBmkW3WBVRDH8xwLuiBw5QxkMwz+BhQYpK8DWcksj5dEo5g2DslTnddxg/Xpzi3tGRd9mGKVCyNpa9BcQAwcCbQSs2zfe3IUZNaDP6fZOW0ZYi/+ydC0Mp5XGN+KKp+HHPvhxQSDAP0ol6wdMYoGBxqacBM3EnaQIHGwJbxVpWCVwDTI5rN41uIyjEOXkrEOGJYKe/iWXvH8NF29sWH7FvNetg7/eKeS1eKpWQ==",
+             "ms3Url":"https%3A%2F%2Fifd.aero%2Fms3%2Fv1%2Fmedia%2Ftvs%2Fuuid%2F336c51e380bfcff1fde11cf16a9e25f70363c014%2Fseason%2F9%2Fepisode%2F4%23http%3A%2F%2Fifd.aero%2Fapi%2Fmedia%2Ftvs%2Ftvs_thebigbangtheory_9_4_336c51e380bfcff1fde11cf16a9e25f70363c014%2Fmaster.m3u8",
+             "category":"",
+             "genre":"",
+             "cast":"",
+             "director":""
+          },
+          {  
+             "collection":"Episodes",
+             "seasonNumber":9,
+             "episodeNumber":5,
+             "duration":30,
+             "title":"The Perspiration Implementation",
+             "mltitle":"L'Exercice de la transpiration",
+             "synopsis":"Kripke est est sous le charme d'Amy pendant qu'il dirige une leÃ§on d'escrime, tandis que Stuart demande l'aide des filles pour attirer les femmes dans son magasin.",
+             "client":"598b204a4ed0ef0100cecb44",
+             "createdAt":"2017-09-11T16:09:03.078Z",
+             "updatedAt":"2017-09-13T15:36:28.231Z",
+             "contentId":"urn:marlin:kid:cad8b82714981ac3a67b5af82403c968",
+             "cycle":[  
+                "59b6b51fb14852010029056b"
+             ],
+             "kid":"63d9e84682b900c2bc8043ed8dcb8983",
+             "encryptedKEK":"STM3alMjvrVRXy6/eUXVpIRgMo1Pmr+eTGgRA4fdIJUeo0W02Rmk6qun/FpW1xU7s0tyIaCB4ZA5KwOqhS7Oh3AyU8+BxBFrXDc4xhbb956oGEBQ0qoIokah8xOyhEhuDy7ijSD/EVkNSMLEyjVzg+2PmqUIHgCoUWpsA8hvB21Z3tkH5vBeUrq0kGGMJ0DgudWI3svRwOp4r+i18Hm/YSBKXQ/m9XLOL6WtzTQLGmg5nUSQmeXOAU4qJyd4a1ULi2qLBXTRLFb1imWE9qPcojGzgP8IopQi/su5gPViEBuwHX6GXhMndnvdi8qSD9eRjZ2RuBAlIYJrHWFZTi90Pg==",
+             "ms3Url":"https%3A%2F%2Fifd.aero%2Fms3%2Fv1%2Fmedia%2Ftvs%2Fuuid%2F336c51e380bfcff1fde11cf16a9e25f70363c014%2Fseason%2F9%2Fepisode%2F5%23http%3A%2F%2Fifd.aero%2Fapi%2Fmedia%2Ftvs%2Ftvs_thebigbangtheory_9_5_336c51e380bfcff1fde11cf16a9e25f70363c014%2Fmaster.m3u8",
+             "category":"",
+             "genre":"",
+             "cast":"",
+             "director":""
+          },
+          {  
+             "collection":"Episodes",
+             "seasonNumber":9,
+             "episodeNumber":6,
+             "duration":30,
+             "title":"The Helium Insufficiency",
+             "mltitle":"Carence en hÃ©lium liquide",
+             "synopsis":"Leonard et Sheldon font des pieds et des mains pour obtenir de l'hÃ©lium pendant une pÃ©nurie nationale tandis que le reste du groupe essaie de trouver un copain pour Amy sur une application de rencontre.",
+             "client":"598b204a4ed0ef0100cecb44",
+             "createdAt":"2017-09-11T16:09:03.080Z",
+             "updatedAt":"2017-09-13T15:36:28.235Z",
+             "contentId":"urn:marlin:kid:cb43f89359b39f2786e2c7e2db708c8b",
+             "cycle":[  
+                "59b6b51fb14852010029056b"
+             ],
+             "kid":"b0c6d49595bcc48d92ef1301d9163f2a",
+             "encryptedKEK":"Udo2+/bpyd4MKp8lDd/FaOhMDorT4FEtKc5wth6VnOuyUtSDuqg52YJUeibkh6VaXQZ2doZrk4TxCJ5ps9V1qg+mRAzVk6I4nePFHnbhbIUEDno1knwfgmYPI8YT7KBI+dhP7jeQ/R6uXpzWv25djJDYp67xbDSrGOd0ssCZO7PwEqv0XNDIXFXiPn5dJQaQjJMvsplc9uxkZeD7fAWdw/gTtmibxGpooC65oSGOgw/0WN97e1o6EmpWnkhUmjnZ5Iy9dZY9AZ6Q1zHMkQg5MAWQZt5FN6cH9mt7axzqXudpxJqVDRQCc0RnhNUM0eE/mPjrWITiDyuvsqCLNzc7/A==",
+             "ms3Url":"https%3A%2F%2Fifd.aero%2Fms3%2Fv1%2Fmedia%2Ftvs%2Fuuid%2F336c51e380bfcff1fde11cf16a9e25f70363c014%2Fseason%2F9%2Fepisode%2F6%23http%3A%2F%2Fifd.aero%2Fapi%2Fmedia%2Ftvs%2Ftvs_thebigbangtheory_9_6_336c51e380bfcff1fde11cf16a9e25f70363c014%2Fmaster.m3u8",
+             "category":"",
+             "genre":"",
+             "cast":"",
+             "director":""
+          }
+       ],
+       "category":"",
+       "director":""
+    },
+    {  
+       "_id":"59b6b51fd8b2d3f53d41fdfd",
+       "genre":"ComÃ©die",
+       "collection":null,
+       "title":"The Pasua Show",
+       "mltitle":"The Pasua Show",
+       "cast":"",
+       "synopsis":"The Pasua est une Ã©mission de comÃ©die de camÃ©ra-cachÃ© du Kenya. PrÃ©parez-vous pour leurs frasques hilarantes et canulars de rue.",
+       "distributor":null,
+       "versions":null,
+       "dubLanguages":[  
+          "English"
+       ],
+       "subLanguages":[  
+ 
+       ],
+       "MPAARating":"PG",
+       "metacriticRating":null,
+       "rottenTomatoesRating":null,
+       "internationalRating":null,
+       "dates":null,
+       "kidSafe":false,
+       "origin":null,
+       "posterImage300x450":"KQ_0917_ThePasuaShow300x450.jpg",
+       "posterImage600x900":"KQ_0917_ThePasuaShow600x900.jpg",
+       "sliderImage1024x400":"KQ_0917_ThePasuaShow1024x400.jpg",
+       "client":"598b204a4ed0ef0100cecb44",
+       "createdAt":"2017-09-11T16:09:03.056Z",
+       "updatedAt":"2017-09-13T15:36:28.214Z",
+       "uuid":"d9bc7f60a23a054cefcfd9dcde45001a9f68aa74",
+       "episodes":[  
+          {  
+             "collection":"Episodes",
+             "seasonNumber":1,
+             "episodeNumber":9,
+             "duration":30,
+             "title":"Episode 9",
+             "mltitle":"Episode 8",
+             "synopsis":"The Pasua est une Ã©mission de comÃ©die de camÃ©ra-cachÃ© du Kenya. PrÃ©parez-vous pour leurs frasques hilarantes et canulars de rue.",
+             "client":"598b204a4ed0ef0100cecb44",
+             "createdAt":"2017-09-11T16:09:03.075Z",
+             "updatedAt":"2017-09-13T15:36:28.231Z",
+             "contentId":"urn:marlin:kid:65e88183935944d97331575ad745676b",
+             "cycle":[  
+                "59b6b51fb14852010029056b"
+             ],
+             "kid":"3f34ec2f3d1f449464b2d6ff17b7fdc4",
+             "encryptedKEK":"McddSTZZDhTTOlzHyTbvO9pcIA5bvEjUn8cuE6UmrSbQQ6CgQmKKIfCLNhh2GIM8j08Z92a4fA1rPoBbpb0dsNhUYTyqPVP3AEF1zNmye5yRxVbLMPyRfIRcwthY10e4zt5eqS9sEWCImGE6RJaG1nkcLCRSlGJWTQm9h5CtFubQAQxCPcMvWSbFPHhJiPcTRfdaNu67Q7QgjTaijlcejlnPHcPNBughru1q1TEpmoUfn61nrE1+SAuS9CvA3BT8G51ZZvNPyZfMJkBNr8HXyLIOyhjVJsQHAJ8q0HUi/+VvHOB4fdTUzZGp+HeGTMN01+Cuo4VeLcIEeqpkCltp5g==",
+             "ms3Url":"https%3A%2F%2Fifd.aero%2Fms3%2Fv1%2Fmedia%2Ftvs%2Fuuid%2Fd9bc7f60a23a054cefcfd9dcde45001a9f68aa74%2Fseason%2F1%2Fepisode%2F9%23http%3A%2F%2Fifd.aero%2Fapi%2Fmedia%2Ftvs%2Ftvs_thepasuashow_1_9_d9bc7f60a23a054cefcfd9dcde45001a9f68aa74%2Fmaster.m3u8",
+             "category":"",
+             "genre":"",
+             "cast":"",
+             "director":""
+          }
+       ],
+       "category":"",
+       "director":""
+    },
+    {  
+       "_id":"59b6b51fd8b2d3f53d41fdff",
+       "genre":"Enfants",
+       "collection":null,
+       "title":"Justice League Unlimited",
+       "mltitle":"La Ligue des Justiciers",
+       "cast":"",
+       "synopsis":"Batman se mÃ©fie du nouveau copain de Shayera, un archÃ©ologue mystÃ©rieux avec des liens sinistres avec son passÃ© thanagarien.",
+       "distributor":null,
+       "versions":null,
+       "dubLanguages":[  
+          "English"
+       ],
+       "subLanguages":[  
+ 
+       ],
+       "MPAARating":"G",
+       "metacriticRating":null,
+       "rottenTomatoesRating":null,
+       "internationalRating":null,
+       "dates":null,
+       "kidSafe":true,
+       "origin":null,
+       "posterImage300x450":"KQ_0917_JusticeLeagueUnlimited_300x450.jpg",
+       "posterImage600x900":"KQ_0917_JusticeLeagueUnlimited_600x900.jpg",
+       "sliderImage1024x400":"KQ_0917_JusticeLeagueUnlimited_1024x400.jpg",
+       "client":"598b204a4ed0ef0100cecb44",
+       "createdAt":"2017-09-11T16:09:03.056Z",
+       "updatedAt":"2017-09-13T15:36:28.215Z",
+       "uuid":"6ebb32e665c3c37de6bec45a6f56e75ca697a80a",
+       "episodes":[  
+          {  
+             "collection":"Episodes",
+             "seasonNumber":2,
+             "episodeNumber":2,
+             "duration":30,
+             "title":"Shadow of the Hawk",
+             "mltitle":"RÃ©incarnation",
+             "synopsis":"Batman se mÃ©fie du nouveau copain de Shayera, un archÃ©ologue mystÃ©rieux avec des liens sinistres avec son passÃ© thanagarien.",
+             "client":"598b204a4ed0ef0100cecb44",
+             "createdAt":"2017-09-11T16:09:03.080Z",
+             "updatedAt":"2017-09-13T15:36:28.233Z",
+             "contentId":"urn:marlin:kid:399dcd5550cdd2d85cd3fa3ac9f2f595",
+             "cycle":[  
+                "59b6b51fb14852010029056b"
+             ],
+             "kid":"9204217ab8e51fd046862370aa2e83e8",
+             "encryptedKEK":"ro0tNnSBzrO5XX5gUbS+5FmJVyyZ7ANe4Ekh1r2nA8ByQwcXjKJAA4JjWgashuxEkpHQsDGGV7ySFA7LKoCiUUxG14mtZ9I7sopidk/kUY2t6kLRiUDLaNvyqvbqUGZkUR4lD16HBcgPnJL0PoN7xS7kHSzz7zhUUbqweCBIziwUWYSOgy45a+QXT5DKI0uMr0JanrZQUSXaYzrXq4tt6FexTjGRRUFsxYme0QbH5+bbMOc5YMF8Yh2507gY8NBlnrHZbZzIRbf/cLuOG8iBaPZhVhUwxdrZlIw/SoXQBYw99STBZ/f5j2grgXm7GGPC4129bUI2sYvSWjP79MdJfg==",
+             "ms3Url":"https%3A%2F%2Fifd.aero%2Fms3%2Fv1%2Fmedia%2Ftvs%2Fuuid%2F6ebb32e665c3c37de6bec45a6f56e75ca697a80a%2Fseason%2F2%2Fepisode%2F2%23http%3A%2F%2Fifd.aero%2Fapi%2Fmedia%2Ftvs%2Ftvs_justiceleagueunlimited_2_2_6ebb32e665c3c37de6bec45a6f56e75ca697a80a%2Fmaster.m3u8",
+             "category":"",
+             "genre":"",
+             "cast":"",
+             "director":""
+          }
+       ],
+       "category":"",
+       "director":""
+    },
+    {  
+       "_id":"59b6b51fd8b2d3f53d41fe01",
+       "genre":"Mode de vie, RÃ©alitÃ©, Voyage",
+       "collection":null,
+       "title":"The Scoop",
+       "mltitle":"The Scoop",
+       "cast":"",
+       "synopsis":"The SCOOP est une nouvelle Ã©mission-dÃ©bat africaine, animÃ©e par Salim Amin d'A24 Media. L'Ã©mission accompagne les spectateurs dans la vie du gotha africain.",
+       "distributor":null,
+       "versions":null,
+       "dubLanguages":[  
+          "English"
+       ],
+       "subLanguages":[  
+ 
+       ],
+       "MPAARating":"PG-13",
+       "metacriticRating":null,
+       "rottenTomatoesRating":null,
+       "internationalRating":null,
+       "dates":null,
+       "kidSafe":false,
+       "origin":null,
+       "posterImage300x450":"KQ_0917_TheScoop_300x450.jpg",
+       "posterImage600x900":"KQ_0917_TheScoop_600x900.jpg",
+       "sliderImage1024x400":"KQ_0917_TheScoop_1024x400.jpg",
+       "client":"598b204a4ed0ef0100cecb44",
+       "createdAt":"2017-09-11T16:09:03.056Z",
+       "updatedAt":"2017-09-13T15:36:28.217Z",
+       "uuid":"2cebaeca0afdef73105d30f1081af3ed29bf3ded",
+       "episodes":[  
+          {  
+             "collection":"Episodes",
+             "seasonNumber":1,
+             "episodeNumber":134,
+             "duration":30,
+             "title":"The Scoop with Ayden",
+             "mltitle":"The Scoop avec Ayden",
+             "synopsis":"The SCOOP est une nouvelle Ã©mission-dÃ©bat africaine, animÃ©e par Salim Amin d'A24 Media. L'Ã©mission accompagne les spectateurs dans la vie du gotha africain.",
+             "client":"598b204a4ed0ef0100cecb44",
+             "createdAt":"2017-09-11T16:09:03.081Z",
+             "updatedAt":"2017-09-13T15:36:28.236Z",
+             "contentId":"urn:marlin:kid:c76a48b58cd44fdbce758a2221e6aa90",
+             "cycle":[  
+                "59b6b51fb14852010029056b"
+             ],
+             "media":{  
+                "source":"",
+                "type":""
+             },
+             "stillImage":"",
+             "__v":1,
+             "kid":"c138bf0d43b368b339f5ec50a41f2440",
+             "encryptedKEK":"PGbQuXfAVvijJImJ2C1+YEm2OqWg5rKV3kYBMG17n1Z5mk7QOpjoFTW4DfRkUN+XnwUUZeA9Xev+mGMcdaM2aPi+NIzz2HrUTVCzbt/EH9NY98MQBw9fRZJfRQivz96MAsNnf4Jndue0VykJHr8GpAv6Yf0aPhA+d7uozEbD4DYiFVl+nrsUFtuTfCiFJKX63ziD+Nk/WcZGuRuk76xbVrT88kJjBA9RL3cEJ0NtJMSWXVBebOZRQlL912IwG1aFI06qCxOtncIz+tBpVaTjNeFcmTZmIFcTqKkF2PlVqJYXSCYYGKOzIwYzcYT3L4GVC86SGeH0YchbHq9YqBbtiw==",
+             "ms3Url":"https%3A%2F%2Fifd.aero%2Fms3%2Fv1%2Fmedia%2Ftvs%2Fuuid%2F2cebaeca0afdef73105d30f1081af3ed29bf3ded%2Fseason%2F1%2Fepisode%2F134%23http%3A%2F%2Fifd.aero%2Fapi%2Fmedia%2Ftvs%2Ftvs_thescoop_1_134_2cebaeca0afdef73105d30f1081af3ed29bf3ded%2Fmaster.m3u8",
+             "category":"",
+             "genre":"",
+             "cast":"",
+             "director":""
+          }
+       ],
+       "category":"",
+       "director":""
+    },
+    {  
+       "_id":"59b6b51fd8b2d3f53d41fe03",
+       "genre":"Sport",
+       "collection":null,
+       "title":"250 Great Goals",
+       "mltitle":"250 buts magnifiques",
+       "cast":"",
+       "synopsis":"50 buts mÃ©morables, y compris les buts marquÃ©s par Zlatan Ibrahimovic durant l'EURO 2012 et par Ben Watson pour Wigan Athletic en finale de la FA Cup en 2013.",
+       "distributor":null,
+       "versions":null,
+       "dubLanguages":[  
+          "English"
+       ],
+       "subLanguages":[  
+ 
+       ],
+       "MPAARating":"PG-13",
+       "metacriticRating":null,
+       "rottenTomatoesRating":null,
+       "internationalRating":null,
+       "dates":null,
+       "kidSafe":false,
+       "origin":null,
+       "posterImage300x450":"KQ_0917_250GreatGoals_300x450.jpg",
+       "posterImage600x900":"KQ_0917_250GreatGoals_600x900.jpg",
+       "sliderImage1024x400":"KQ_0917_250GreatGoals_1024x400.jpg",
+       "client":"598b204a4ed0ef0100cecb44",
+       "createdAt":"2017-09-11T16:09:03.057Z",
+       "updatedAt":"2017-09-13T15:36:28.210Z",
+       "uuid":"064b64342fb3130ce5bf7174c735f50fc48e04ed",
+       "episodes":[  
+          {  
+             "collection":"Episodes",
+             "seasonNumber":1,
+             "episodeNumber":0,
+             "duration":30,
+             "title":"Show 1",
+             "mltitle":"Show 1",
+             "synopsis":"50 buts mÃ©morables, y compris les buts marquÃ©s par Zlatan Ibrahimovic durant l'EURO 2012 et par Ben Watson pour Wigan Athletic en finale de la FA Cup en 2013.",
+             "client":"598b204a4ed0ef0100cecb44",
+             "createdAt":"2017-09-11T16:09:03.076Z",
+             "updatedAt":"2017-09-13T15:36:28.238Z",
+             "contentId":"urn:marlin:kid:c23ee97f66ca07956416e65fa53867a5",
+             "cycle":[  
+                "59b6b51fb14852010029056b"
+             ],
+             "kid":"cae21067bfd03834bb3df272d81d6db6",
+             "encryptedKEK":"KeVRrkQKRJci/jIgWv4wjt2n3wMhzqW8wqLkx9gLOh0CUWURrJHTt4nbNbQkk5E98IwWFwd/kxaWUc/lEu+ySI8Wvu1pGLStbfS598/IZNHCAt56B79ahPrkzG3zisKLCr1LbScpOk3A/YeFRZV91KhDjF4bsS5it9i3IYBDNhBz6Q5p083NepvMgJTCLzubFqdNYhv7+MAVts2LT6KvyKsG/0YIS4BL7wLLXbMpETz5sRUWjAPM/d6IiMl/z68vJ9RiGzf3uOPMz2yQ5HI3hE9QjCssR2RS46WJ2+UteXtLQ5E8Fc+eIicGFqGkJeD8OWNWdw3gSokJnXLS4xwE6Q==",
+             "ms3Url":"https%3A%2F%2Fifd.aero%2Fms3%2Fv1%2Fmedia%2Ftvs%2Fuuid%2F064b64342fb3130ce5bf7174c735f50fc48e04ed%2Fseason%2F1%2Fepisode%2F0%23http%3A%2F%2Fifd.aero%2Fapi%2Fmedia%2Ftvs%2Ftvs_250greatgoals_1_0_064b64342fb3130ce5bf7174c735f50fc48e04ed%2Fmaster.m3u8",
+             "category":"",
+             "genre":"",
+             "cast":"",
+             "director":""
+          }
+       ],
+       "category":"",
+       "director":""
+    },
+    {  
+       "_id":"59b6b51fd8b2d3f53d41fe05",
+       "genre":"Drame",
+       "collection":null,
+       "title":"The Flash",
+       "mltitle":"Flash",
+       "cast":"",
+       "synopsis":"Barry dÃ©couvre que les consÃ©quences du Flashpoint sont plus importantes qu'il ne le pensait. Pendant ce temps, il rencontre son nouveau collÃ¨gue, qui ne tarde pas Ã  le dÃ©tester.",
+       "distributor":null,
+       "versions":null,
+       "dubLanguages":[  
+          "English"
+       ],
+       "subLanguages":[  
+ 
+       ],
+       "MPAARating":"PG",
+       "metacriticRating":null,
+       "rottenTomatoesRating":null,
+       "internationalRating":null,
+       "dates":null,
+       "kidSafe":false,
+       "origin":null,
+       "posterImage300x450":"KQ_0917_TheFlash_300x450.jpg",
+       "posterImage600x900":"KQ_0917_TheFlash_600x900.jpg",
+       "sliderImage1024x400":"KQ_0917_TheFlash_1024x400.jpg",
+       "client":"598b204a4ed0ef0100cecb44",
+       "createdAt":"2017-09-11T16:09:03.057Z",
+       "updatedAt":"2017-09-13T15:36:28.212Z",
+       "uuid":"2505bfbdb161d7a745f8f681afd58a70fea8e2e1",
+       "episodes":[  
+          {  
+             "collection":"Episodes",
+             "seasonNumber":3,
+             "episodeNumber":2,
+             "duration":60,
+             "title":"Paradox",
+             "mltitle":"Un choix paradoxal",
+             "synopsis":"Barry dÃ©couvre que les consÃ©quences du Flashpoint sont plus importantes qu'il ne le pensait. Pendant ce temps, il rencontre son nouveau collÃ¨gue, qui ne tarde pas Ã  le dÃ©tester.",
+             "client":"598b204a4ed0ef0100cecb44",
+             "createdAt":"2017-09-11T16:09:03.073Z",
+             "updatedAt":"2017-09-13T15:36:28.237Z",
+             "contentId":"urn:marlin:kid:1ce2fb9151d4925031aab51f7cb6d115",
+             "cycle":[  
+                "59b6b51fb14852010029056b"
+             ],
+             "kid":"26eb2c4d26625f110f8a15e8349ea360",
+             "encryptedKEK":"Xoep8Aa5hN/LW4vfzZVZrW/aODggMF53KudOK2QseKIDap7FqL4xHlV5koaE+av6i6jKOUcmN8CBBKRyne7decot739vfOSqAS6CD1GWzBTD4Tn3OcBiVqra5xxUQ/SIGLxRLRzpjw4Vhb/LpaVfRM8wv8AJ5JRn49PaCan5WloXciwhlG+uULvBzhCajNLv4XFyVyuPzn3lgQN+O50HzWecZ5DfcwYMzJGUyzLfB29Mdynx6Z9bu2EhqqwLNz/sUWKZWCysn4Y8rlhf4DM+n3XusZPMKkI7eDo1WfhZDgoKXv+FJq1olUcQvnYe1beXpOyBhlaFnedAL0cBO+zNJw==",
+             "ms3Url":"https%3A%2F%2Fifd.aero%2Fms3%2Fv1%2Fmedia%2Ftvs%2Fuuid%2F2505bfbdb161d7a745f8f681afd58a70fea8e2e1%2Fseason%2F3%2Fepisode%2F2%23http%3A%2F%2Fifd.aero%2Fapi%2Fmedia%2Ftvs%2Ftvs_theflash_3_2_2505bfbdb161d7a745f8f681afd58a70fea8e2e1%2Fmaster.m3u8",
+             "category":"",
+             "genre":"",
+             "cast":"",
+             "director":""
+          },
+          {  
+             "collection":"Episodes",
+             "seasonNumber":3,
+             "episodeNumber":3,
+             "duration":60,
+             "title":"Magenta",
+             "mltitle":"L'Ã‰toffe des super-hÃ©ros",
+             "synopsis":"DÃ¨s que Wells et Jesse retournent de Terre-2, Central City est attaquÃ©e par une nouvelle mÃ©ta-humaine qui peut contrÃ´ler le mÃ©tal.",
+             "client":"598b204a4ed0ef0100cecb44",
+             "createdAt":"2017-09-11T16:09:03.075Z",
+             "updatedAt":"2017-09-13T15:36:28.239Z",
+             "contentId":"urn:marlin:kid:a27a44cc54db411074b56e523d3a0eef",
+             "cycle":[  
+                "59b6b51fb14852010029056b"
+             ],
+             "kid":"e05b967448625d5d5e25818b10264356",
+             "encryptedKEK":"owwXD5ns6ZwHdXkOtQRS+SdpBJeRdOmV/9EA6wBPE7/UI0ocN181pROeocOtw8Wkpf+5fuAiSRaIK0rmHb9i1j849UAPZv+VD3RrvUqW9rHcCaFhXzFALzMl2zF9KoQJTEGWhZrVZq1Wn2dB2NF0rGwEhJs9wPw90nXHB/SRB5+jORE1biYBCTz/mZ5rMxwdSQ0SIfMErkV7cCHEb2hzJnb3WJ48YR2mCnPYU0gozr/W+S2vdJadkhyKYUTjn7/U7FiRVxaWVgAK3DsH5eHigvlXlD4Va6JnFE7X5jlv90Qb+Tc4/1skB9U4BbxFQKtOEQEQZntGK6RNFuEbQiaOVw==",
+             "ms3Url":"https%3A%2F%2Fifd.aero%2Fms3%2Fv1%2Fmedia%2Ftvs%2Fuuid%2F2505bfbdb161d7a745f8f681afd58a70fea8e2e1%2Fseason%2F3%2Fepisode%2F3%23http%3A%2F%2Fifd.aero%2Fapi%2Fmedia%2Ftvs%2Ftvs_theflash_3_3_2505bfbdb161d7a745f8f681afd58a70fea8e2e1%2Fmaster.m3u8",
+             "category":"",
+             "genre":"",
+             "cast":"",
+             "director":""
+          }
+       ],
+       "category":"",
+       "director":""
+    },
+    {  
+       "_id":"59b6b51fd8b2d3f53d41fe07",
+       "genre":"ComÃ©die",
+       "collection":null,
+       "title":"New Girl ",
+       "mltitle":"New Girl",
+       "cast":"",
+       "synopsis":"Pendant que Jess participe Ã  un jury, Nick transforme l'appartement en Airbnb pour payer l'enterrement de vie de garÃ§on de Schmidt. Winston demande de l'aide Ã  Cece car il suspecte que  KC le trompe.",
+       "distributor":null,
+       "versions":null,
+       "dubLanguages":[  
+          "English"
+       ],
+       "subLanguages":[  
+ 
+       ],
+       "MPAARating":"PG-13",
+       "metacriticRating":null,
+       "rottenTomatoesRating":null,
+       "internationalRating":null,
+       "dates":null,
+       "kidSafe":false,
+       "origin":null,
+       "posterImage300x450":"KQ_0917_NewGirl_300x450.jpg",
+       "posterImage600x900":"KQ_0917_NewGirl_600x900.jpg",
+       "sliderImage1024x400":"KQ_0917_NewGirl_1024x400.jpg",
+       "client":"598b204a4ed0ef0100cecb44",
+       "createdAt":"2017-09-11T16:09:03.057Z",
+       "updatedAt":"2017-09-13T15:36:28.214Z",
+       "uuid":"32996efc49f6036da6342f257d840b001c753eb1",
+       "episodes":[  
+          {  
+             "collection":"Episodes",
+             "seasonNumber":5,
+             "episodeNumber":4,
+             "duration":30,
+             "title":"No Girl",
+             "mltitle":"OpÃ©ration : Bed and Breakfast",
+             "synopsis":"Pendant que Jess participe Ã  un jury, Nick transforme l'appartement en Airbnb pour payer l'enterrement de vie de garÃ§on de Schmidt. Winston demande de l'aide Ã  Cece car il suspecte que  KC le trompe.",
+             "client":"598b204a4ed0ef0100cecb44",
+             "createdAt":"2017-09-11T16:09:03.077Z",
+             "updatedAt":"2017-09-13T15:36:28.239Z",
+             "contentId":"urn:marlin:kid:580ba6c41ad431ed8e314aaf65a12c7a",
+             "cycle":[  
+                "59b6b51fb14852010029056b"
+             ],
+             "kid":"e940924e423cf7489c5e834615a25de5",
+             "encryptedKEK":"IlWLI+1DL7hHpcaFqJAQ02O+dxPYuxanIKv1T0YZa46i4g4QTiOHSM0irkwA8ywekXgYi+M7omeIszoI/yDVoqhEQlkN9kdysM0dX/GHNsEfCm1Ny2DCL+mZ/1lx203wSqY6NvOU51bI6payd1J6hz6aN3hqHIvewrZlSZwxfDZozOfxVR5SVjTJTpkAHhF8dzcKHvg+6GR9CVp9F2VTfmlKeEyaw/lWjDfBMS1i6PRLZ9Hw4rUhy8Fuue9Q6KTbu7xMPrUVixpvkG87cwru85WS8O0F4i3abst+wCkOMWHISREB45DFOMQYpFUb1V31tyzFiPv6s9/OqvpOdbW/aQ==",
+             "ms3Url":"https%3A%2F%2Fifd.aero%2Fms3%2Fv1%2Fmedia%2Ftvs%2Fuuid%2F32996efc49f6036da6342f257d840b001c753eb1%2Fseason%2F5%2Fepisode%2F4%23http%3A%2F%2Fifd.aero%2Fapi%2Fmedia%2Ftvs%2Ftvs_newgirl_5_4_32996efc49f6036da6342f257d840b001c753eb1%2Fmaster.m3u8",
+             "category":"",
+             "genre":"",
+             "cast":"",
+             "director":""
+          },
+          {  
+             "collection":"Episodes",
+             "seasonNumber":5,
+             "episodeNumber":5,
+             "duration":30,
+             "title":"Bob & Carol & Nick & Schmidt",
+             "mltitle":"Don de soi",
+             "synopsis":"Schmidt aide Nick Ã  rÃ©flÃ©chir Ã  son avenir aprÃ¨s la visite de son cousin et de sa femme qui demandent un service trÃ¨s spÃ©cial. Pendant ce temps, Winston aide Cece Ã  choisir une robe de mariÃ©e.",
+             "client":"598b204a4ed0ef0100cecb44",
+             "createdAt":"2017-09-11T16:09:03.079Z",
+             "updatedAt":"2017-09-13T15:36:28.232Z",
+             "contentId":"urn:marlin:kid:c522ca644f64ccbddb7787e0afef5a28",
+             "cycle":[  
+                "59b6b51fb14852010029056b"
+             ],
+             "kid":"b468056a9141163f1a9fd3bb580d8099",
+             "encryptedKEK":"Try5LXZlIESrcr22x0ATqX4TwZRYVXvMApzqZss6NGrW8Ak7jwe2d9kXAY1RRAUigaSBFSe67QnAdI2oeHBS+peR43f+6vFoFuuyJGysvgUch7sDfnVcbAwP0jgSIG3DawmwvpFXz7TeP/ben/ISY8jQMjXWHFeVHmbNy/stukuLhhGIXyMBwB9wgHy+BvXzjF1L7X/DY6ByR+WxRBcezJIcCl2il8dujjLP9wxhFFnCFayE8jeeZzUpTxLZasCJ6ow7H16rB3XI7nTYynaPgxCAZno04UssckBBUpTxtrzOlc2WqL7WGBDtPiOrVub/O9qIw1s6hdAfEJjiytbpHg==",
+             "ms3Url":"https%3A%2F%2Fifd.aero%2Fms3%2Fv1%2Fmedia%2Ftvs%2Fuuid%2F32996efc49f6036da6342f257d840b001c753eb1%2Fseason%2F5%2Fepisode%2F5%23http%3A%2F%2Fifd.aero%2Fapi%2Fmedia%2Ftvs%2Ftvs_newgirl_5_5_32996efc49f6036da6342f257d840b001c753eb1%2Fmaster.m3u8",
+             "category":"",
+             "genre":"",
+             "cast":"",
+             "director":""
+          }
+       ],
+       "category":"",
+       "director":""
+    },
+    {  
+       "_id":"59b6b51fd8b2d3f53d41fe09",
+       "genre":"Enfants",
+       "collection":null,
+       "title":"Marvel's Avengers Assemble",
+       "mltitle":"Marvel Avengers Rassemblement",
+       "cast":"",
+       "synopsis":"Thor croit qu'il doit se sacrifier afin de sauver le monde du Docteur Doom et du Serpent de Milgard.",
+       "distributor":null,
+       "versions":null,
+       "dubLanguages":[  
+          "English"
+       ],
+       "subLanguages":[  
+ 
+       ],
+       "MPAARating":"G",
+       "metacriticRating":null,
+       "rottenTomatoesRating":null,
+       "internationalRating":null,
+       "dates":null,
+       "kidSafe":true,
+       "origin":null,
+       "posterImage300x450":"KQ_0917_MarvelsAvengersAssemble_300x450.jpg",
+       "posterImage600x900":"KQ_0917_MarvelsAvengersAssemble_600x900.jpg",
+       "sliderImage1024x400":"KQ_0917_MarvelsAvengersAssemble_1024x400.jpg",
+       "client":"598b204a4ed0ef0100cecb44",
+       "createdAt":"2017-09-11T16:09:03.057Z",
+       "updatedAt":"2017-09-13T15:36:28.215Z",
+       "uuid":"64d594a52c358fdedd732992781ecce830569c92",
+       "episodes":[  
+          {  
+             "collection":"Episodes",
+             "seasonNumber":1,
+             "episodeNumber":4,
+             "duration":30,
+             "title":"The Serpent of Doom",
+             "mltitle":"La Menace du serpent",
+             "synopsis":"Thor croit qu'il doit se sacrifier afin de sauver le monde du Docteur Doom et du Serpent de Milgard.",
+             "client":"598b204a4ed0ef0100cecb44",
+             "createdAt":"2017-09-11T16:09:03.074Z",
+             "updatedAt":"2017-09-13T15:36:28.234Z",
+             "contentId":"urn:marlin:kid:93d69930ddd001b0faeff0f282107aaf",
+             "cycle":[  
+                "59b6b51fb14852010029056b"
+             ],
+             "kid":"07f1e5e4cda5acafe217dad841964e9f",
+             "encryptedKEK":"G/FY3/aeDTFHsI8GAbwZxtq6T46gyG2es/FAkvpakDRTkE+eH2gkpBcxNLZnEum3KWVTLqK7L9iid1njT66ls4wRSyaOqUaDo4Nm7e9GL/hsRGDivKbeIuEUPgfNOkHmp0UAnTvcl02r8mgRyUcMLeRomdhbyfM921LdTCzq4Hj0QPT95QRLaDp0X7FuH755+99+Sb6IYMi2vcuUD4gXiISI8cWoMA7PNuWEZuBnA7sWncqL5SrzFWA4RqrM1jOQZl1d28fILat1sr0A/pkPp7/fgi/UZiSTosG/2hD7EjZiQFTGuOsUtqiOfaphgSvGucrBU/chbc6pppvhYOVkQw==",
+             "ms3Url":"https%3A%2F%2Fifd.aero%2Fms3%2Fv1%2Fmedia%2Ftvs%2Fuuid%2F64d594a52c358fdedd732992781ecce830569c92%2Fseason%2F1%2Fepisode%2F4%23http%3A%2F%2Fifd.aero%2Fapi%2Fmedia%2Ftvs%2Ftvs_marvelsavengersassemble_1_4_64d594a52c358fdedd732992781ecce830569c92%2Fmaster.m3u8",
+             "category":"",
+             "genre":"",
+             "cast":"",
+             "director":""
+          }
+       ],
+       "category":"",
+       "director":""
+    },
+    {  
+       "_id":"59b6b51fd8b2d3f53d41fe0b",
+       "genre":"Enfants",
+       "collection":null,
+       "title":"Batman: The Brave and the Bold",
+       "mltitle":"Batman : L'Alliance des hÃ©ros",
+       "cast":"",
+       "synopsis":"Le Joker s'allie avec son hÃ©ros criminel et son inspiration, le Pleureur, pour battre Batman dans cet Ã©pisode oÃ¹ les rÃ´les s'inversent.",
+       "distributor":null,
+       "versions":null,
+       "dubLanguages":[  
+          "English"
+       ],
+       "subLanguages":[  
+ 
+       ],
+       "MPAARating":"G",
+       "metacriticRating":null,
+       "rottenTomatoesRating":null,
+       "internationalRating":null,
+       "dates":null,
+       "kidSafe":true,
+       "origin":null,
+       "posterImage300x450":"KQ_0917_BatmanTheBraveAndTheBold_300x450.jpg",
+       "posterImage600x900":"KQ_0917_BatmanTheBraveAndTheBold_600x900.jpg",
+       "sliderImage1024x400":"KQ_0917_BatmanTheBraveAndTheBold_1024x400.jpg",
+       "client":"598b204a4ed0ef0100cecb44",
+       "createdAt":"2017-09-11T16:09:03.058Z",
+       "updatedAt":"2017-09-13T15:36:28.217Z",
+       "uuid":"440d4c96f06980c8186b42f664b7098385fa2795",
+       "episodes":[  
+          {  
+             "collection":"Episodes",
+             "seasonNumber":3,
+             "episodeNumber":2,
+             "duration":30,
+             "title":"Joker: The Vile and the Villainous!",
+             "mltitle":"Le Grand Retour du Pleureur !",
+             "synopsis":"Le Joker s'allie avec son hÃ©ros criminel et son inspiration, le Pleureur, pour battre Batman dans cet Ã©pisode oÃ¹ les rÃ´les s'inversent.",
+             "client":"598b204a4ed0ef0100cecb44",
+             "createdAt":"2017-09-11T16:09:03.075Z",
+             "updatedAt":"2017-09-13T15:36:28.234Z",
+             "contentId":"urn:marlin:kid:7e62924dd6395d5257d365855f53d6d6",
+             "cycle":[  
+                "59b6b51fb14852010029056b"
+             ],
+             "kid":"ab918e22d0f450cabe9b447acedae0ee",
+             "encryptedKEK":"kiNA4ElAPvItxq9AehyoHhGlx/Il/cgB/74EdS1YICxmTeFrhye4GoaYterqUyfrkRppqLtYjVGvp3qV9K63sz2Vcx0lVgthUl8QApunE2YdRZrCGCYKR+oyqRL5l0P4bSghsfFB6iy9teAMwAgvNohFVE5ah/kBrhL7Fe0494vlTd0TKdVHdbupBSmdWhykBLeoAzGtjU7JAHu3foPWpZHQ46u4mLjc/p+k6XaSHHNHZiVoKd/arSqCN/EJM8iNAkgfSbZWdFFm40KQP0/owFUiwpJADYIGNtyhP6MKsITupp6IgYYDYC4PQezSPYqZIzBduyUXR1sR3Sw9ayeK5w==",
+             "ms3Url":"https%3A%2F%2Fifd.aero%2Fms3%2Fv1%2Fmedia%2Ftvs%2Fuuid%2F440d4c96f06980c8186b42f664b7098385fa2795%2Fseason%2F3%2Fepisode%2F2%23http%3A%2F%2Fifd.aero%2Fapi%2Fmedia%2Ftvs%2Ftvs_batmanthebraveandthebold_3_2_440d4c96f06980c8186b42f664b7098385fa2795%2Fmaster.m3u8",
+             "category":"",
+             "genre":"",
+             "cast":"",
+             "director":""
+          }
+       ],
+       "category":"",
+       "director":""
+    },
+    {  
+       "_id":"59b6b51fd8b2d3f53d41fe0d",
+       "genre":"Destinations",
+       "collection":null,
+       "title":"Hong Kong and Macau",
+       "mltitle":"Hong Kong et Macao",
+       "cast":"",
+       "synopsis":"Hong Kong est une ville dans le sud-est de la Chine. Dynamique et densÃ©ment peuplÃ©e, c'est un port important ainsi qu'un centre financier mondial connu pour son horizon de gratte-ciels.",
+       "distributor":null,
+       "versions":null,
+       "dubLanguages":[  
+          "English"
+       ],
+       "subLanguages":[  
+ 
+       ],
+       "MPAARating":"G",
+       "metacriticRating":null,
+       "rottenTomatoesRating":null,
+       "internationalRating":null,
+       "dates":null,
+       "kidSafe":false,
+       "origin":null,
+       "posterImage300x450":"KQ_0917_HongKongAndMacau_300x450.jpg",
+       "posterImage600x900":"KQ_0917_HongKongAndMacau_600x900.jpg",
+       "sliderImage1024x400":"KQ_0917_HongKongAndMacau_1024x400.jpg",
+       "client":"598b204a4ed0ef0100cecb44",
+       "createdAt":"2017-09-11T16:09:03.058Z",
+       "updatedAt":"2017-09-13T15:36:28.210Z",
+       "uuid":"a3f4fcc75ac29eb460bcd6b468c3b8134d513dbd",
+       "episodes":[  
+          {  
+             "collection":"Episodes",
+             "seasonNumber":1,
+             "episodeNumber":0,
+             "duration":"05",
+             "title":"Hong Kong and Macau",
+             "mltitle":"Hong Kong et Macao",
+             "synopsis":"Hong Kong est une ville dans le sud-est de la Chine. Dynamique et densÃ©ment peuplÃ©e, c'est un port important ainsi qu'un centre financier mondial connu pour son horizon de gratte-ciels.",
+             "client":"598b204a4ed0ef0100cecb44",
+             "createdAt":"2017-09-11T16:09:03.078Z",
+             "updatedAt":"2017-09-13T15:36:28.235Z",
+             "contentId":"urn:marlin:kid:415e78ddcdb832a50ac2bbe1ce8dbc40",
+             "cycle":[  
+                "59b6b51fb14852010029056b"
+             ],
+             "kid":"310c4fbc4925074d8064ca545e0a20ac",
+             "encryptedKEK":"DmAtj8PyzcAikNAUCe4ocv3rnKyXRDawcsmuJ2kMwcJ74AiAWtVxuRBDgwE3kgVVxxOH/W/rnJGMHqRM8p3DJ2ogdKgcP/DcwniBnUyr/OAkHzuusfWrf67hsdcezM1WRNlne2y9MJEaMm/mzxoVpyY8xIyzA20txzQh0nONm4mGO802V/WSIHAoKDlchpbr8vJ6AXGiXXPXC7mDVDZm5KyFjs6HEWtunT7R7/day3L8+lutQecXSXCxV9df0QqZaaOZ6LHgfuAURiYNwDPsMqD7ckEZ6jM7/mWIUdL1MPYpaMW1sx/dFFac6hgmQGiAzglgp0r2UWtHWYd8ZPWJ3g==",
+             "ms3Url":"https%3A%2F%2Fifd.aero%2Fms3%2Fv1%2Fmedia%2Ftvs%2Fuuid%2Fa3f4fcc75ac29eb460bcd6b468c3b8134d513dbd%2Fseason%2F1%2Fepisode%2F0%23http%3A%2F%2Fifd.aero%2Fapi%2Fmedia%2Ftvs%2Ftvs_hongkongandmacau_1_0_a3f4fcc75ac29eb460bcd6b468c3b8134d513dbd%2Fmaster.m3u8",
+             "category":"",
+             "genre":"",
+             "cast":"",
+             "director":""
+          }
+       ],
+       "category":"",
+       "director":""
+    },
+    {  
+       "_id":"59b6b51fd8b2d3f53d41fe0f",
+       "genre":"Sport",
+       "collection":null,
+       "title":"PGA: Delivering a Decade of Champions",
+       "mltitle":"PGA: Une dÃ©cennie de champions",
+       "cast":"",
+       "synopsis":"Ce document spÃ©cial de trente minutes suit la FedExCup, en s'intÃ©ressant Ã  la maniÃ¨re dont elle a changÃ© le jeu, et en mettant en lumiÃ¨re ses consÃ©quences durables sur le PGA TOUR ainsi que ses joueurs.",
+       "distributor":null,
+       "versions":null,
+       "dubLanguages":[  
+          "English"
+       ],
+       "subLanguages":[  
+ 
+       ],
+       "MPAARating":"PG-13",
+       "metacriticRating":null,
+       "rottenTomatoesRating":null,
+       "internationalRating":null,
+       "dates":null,
+       "kidSafe":false,
+       "origin":null,
+       "posterImage300x450":"KQ_0917_PGADeliveringADecadeOfChampions_300x450.jpg",
+       "posterImage600x900":"KQ_0917_PGADeliveringADecadeOfChampions_600x900.jpg",
+       "sliderImage1024x400":"KQ_0917_PGADeliveringADecadeOfChampions_1024x400.jpg",
+       "client":"598b204a4ed0ef0100cecb44",
+       "createdAt":"2017-09-11T16:09:03.058Z",
+       "updatedAt":"2017-09-13T15:36:28.212Z",
+       "uuid":"d006ce7f2420939dba9f12f1bfa85281f68cfdef",
+       "episodes":[  
+          {  
+             "collection":"Episodes",
+             "seasonNumber":1,
+             "episodeNumber":0,
+             "duration":30,
+             "title":"10 Years of the FedEx Cup",
+             "mltitle":"10 ans de FedEx Cup",
+             "synopsis":"Ce document spÃ©cial de trente minutes suit la FedExCup, en s'intÃ©ressant Ã  la maniÃ¨re dont elle a changÃ© le jeu, et en mettant en lumiÃ¨re ses consÃ©quences durables sur le PGA TOUR ainsi que ses joueurs.",
+             "client":"598b204a4ed0ef0100cecb44",
+             "createdAt":"2017-09-11T16:09:03.077Z",
+             "updatedAt":"2017-09-13T15:36:28.237Z",
+             "contentId":"urn:marlin:kid:6132d1da21cfbdd9e042daf68f34ad65",
+             "cycle":[  
+                "59b6b51fb14852010029056b"
+             ],
+             "kid":"e55363092ac762cebeef4c481282b409",
+             "encryptedKEK":"DaZ9L7p8ZbnXEh1DhcbTvvNCN9vSokus716Tq0ZN/xpq+3s6BGPurmwBXs+Lu8y6P19HjOeTu3uiHlZ3CvrW2VzPjPuOi+DFiX8WezeBh+OjuU4MHVga25K5q7ogD9cavWlm4PtvCGPgjUII8CaeGEuS/1nZaBbnxj/eyQ5Jvcne97CLltDiwrRxWuV9wbnddwRnU5mN44kNaAOhjvY4virPgy2F+ZmfYGC5KX+2KzQvoNFU6/V7LOzVyiL4kvkwflL8vIF+RnDc8zH9zO/8/lE7ZI0Xaatwclbk23dhU5vFZzmNfDFZq0LkApa4Xt2NjCq030TDqZRhpczzxJXrsQ==",
+             "ms3Url":"https%3A%2F%2Fifd.aero%2Fms3%2Fv1%2Fmedia%2Ftvs%2Fuuid%2Fd006ce7f2420939dba9f12f1bfa85281f68cfdef%2Fseason%2F1%2Fepisode%2F0%23http%3A%2F%2Fifd.aero%2Fapi%2Fmedia%2Ftvs%2Ftvs_pgadeliveringadecadeofchampions_1_0_d006ce7f2420939dba9f12f1bfa85281f68cfdef%2Fmaster.m3u8",
+             "category":"",
+             "genre":"",
+             "cast":"",
+             "director":""
+          }
+       ],
+       "category":"",
+       "director":""
+    },
+    {  
+       "_id":"59b6b51fd8b2d3f53d41fe11",
+       "genre":"Drame",
+       "collection":null,
+       "title":"Training Day",
+       "mltitle":"Training Day",
+       "cast":"",
+       "synopsis":"Le policier hÃ©roÃ¯que Kyle Craig doit se faire passer pour le stagiaire de Frank Rourke pour l'espionner et rapporter ses mÃ©thodes douteuses. BientÃ´t, une alliance difficile se noue.",
+       "distributor":null,
+       "versions":null,
+       "dubLanguages":[  
+          "English"
+       ],
+       "subLanguages":[  
+ 
+       ],
+       "MPAARating":"PG-13",
+       "metacriticRating":null,
+       "rottenTomatoesRating":null,
+       "internationalRating":null,
+       "dates":null,
+       "kidSafe":false,
+       "origin":null,
+       "posterImage300x450":"KQ_0917_TrainingDay_300x450.jpg",
+       "posterImage600x900":"KQ_0917_TrainingDay_600x900.jpg",
+       "sliderImage1024x400":"KQ_0917_TrainingDay_1024x400.jpg",
+       "client":"598b204a4ed0ef0100cecb44",
+       "createdAt":"2017-09-11T16:09:03.059Z",
+       "updatedAt":"2017-09-13T15:36:28.214Z",
+       "uuid":"c4aa0e312ced850b64999ec3b0537e500038ad56",
+       "episodes":[  
+          {  
+             "collection":"Episodes",
+             "seasonNumber":1,
+             "episodeNumber":1,
+             "duration":60,
+             "title":"Apocalypse Now",
+             "mltitle":"Apocalypse Now",
+             "synopsis":"Le policier hÃ©roÃ¯que Kyle Craig doit se faire passer pour le stagiaire de Frank Rourke pour l'espionner et rapporter ses mÃ©thodes douteuses. BientÃ´t, une alliance difficile se noue.",
+             "client":"598b204a4ed0ef0100cecb44",
+             "createdAt":"2017-09-11T16:09:03.080Z",
+             "updatedAt":"2017-09-13T15:36:28.238Z",
+             "contentId":"urn:marlin:kid:0cae4c9ca3df5dae87539e849a54e376",
+             "cycle":[  
+                "59b6b51fb14852010029056b"
+             ],
+             "media":{  
+                "source":"",
+                "type":""
+             },
+             "stillImage":"",
+             "__v":2,
+             "kid":"79e8551a67414c7aef44d11e86ce5796",
+             "encryptedKEK":"fMurv1fmbltTgRI9smkRojvCh54+F70LLqP6mPv1YSOUVRLmNNYrVn22uuB7nryy14ytywajc6ikwIM5XxwIigx0PzScx6fIH+vJeGTfOvceqn5b+40mQwmwdEaRl8m1vGgBlofudczA//sUu5a3qDHHSFn5VDgi8u4ID8FJPQ6VAp+RztRXpT0/7PMhuKXn72gWc2LMFup18G15ImYDGE1OFfkt/B5DU0dSbrfYpMaAIoXy0xmSOTeIJmn55Xz713UD2nhdi3pg4kllGkltMuWX3UO4HSlSZDmNTkSv/zt4YAZRUMoSaaelKEth4gXPGxaxloo3GbrFym8T5bXtQg==",
+             "ms3Url":"https%3A%2F%2Fifd.aero%2Fms3%2Fv1%2Fmedia%2Ftvs%2Fuuid%2Fc4aa0e312ced850b64999ec3b0537e500038ad56%2Fseason%2F1%2Fepisode%2F1%23http%3A%2F%2Fifd.aero%2Fapi%2Fmedia%2Ftvs%2Ftvs_trainingday_1_1_c4aa0e312ced850b64999ec3b0537e500038ad56%2Fmaster.m3u8",
+             "category":"",
+             "genre":"",
+             "cast":"",
+             "director":""
+          },
+          {  
+             "collection":"Episodes",
+             "seasonNumber":1,
+             "episodeNumber":2,
+             "duration":60,
+             "title":"Tehrangeles",
+             "mltitle":"Tehrangeles",
+             "synopsis":"Kyle craint que les tactiques de voyou utilisÃ©es par Frank ne mettent en pÃ©ril la vie d'une fille kidnappÃ©e, lorsqu'un ancien membre de la garde amazonienne s'implique dans l'affaire.",
+             "client":"598b204a4ed0ef0100cecb44",
+             "createdAt":"2017-09-11T16:09:03.074Z",
+             "updatedAt":"2017-09-13T15:36:28.236Z",
+             "contentId":"urn:marlin:kid:fa5ffd9984ac5c963b89752f6e0ee022",
+             "cycle":[  
+                "59b6b51fb14852010029056b"
+             ],
+             "kid":"4aff0627309fbdf98c9bcffe0b81d23a",
+             "encryptedKEK":"jhrJDPK7i9lDdn50f6z5BI9/Pt++pfL00RzHsFe88AHI3KMTvRlzaO+SvYNp00D5L8O1BuqMTGw+l9draohZmSus8yG6YhGLsUMeIXVSr2gict5UqaXPHISsroR0Q/vkhXz5WpkgHX2XBMpsL+rs53hhTVEkN48kq6Za/9D7SB3pYpCibQBtVEricRQTBmvnbQfeew1NP50nFFgejJJRB3oTNLqh+qTO3kIyl6V08bZraafsTQwvcAYBF5sDEJ8bTRJF7fWTxiAp5x60GmF1ZpCUJ76rM0neO7KBjbwhFHYFy0Ujr/XkDyit4AYXr3oNKNQgpfwPesXHsXsKJ6+EWg==",
+             "ms3Url":"https%3A%2F%2Fifd.aero%2Fms3%2Fv1%2Fmedia%2Ftvs%2Fuuid%2Fc4aa0e312ced850b64999ec3b0537e500038ad56%2Fseason%2F1%2Fepisode%2F2%23http%3A%2F%2Fifd.aero%2Fapi%2Fmedia%2Ftvs%2Ftvs_trainingday_1_2_c4aa0e312ced850b64999ec3b0537e500038ad56%2Fmaster.m3u8",
+             "category":"",
+             "genre":"",
+             "cast":"",
+             "director":""
+          }
+       ],
+       "category":"",
+       "director":""
+    },
+    {  
+       "_id":"59b6b51fd8b2d3f53d41fe13",
+       "genre":"ComÃ©die",
+       "collection":null,
+       "title":"2 Broke Girls",
+       "mltitle":"2 Broke Girls",
+       "cast":"",
+       "synopsis":"Le groupe se rassemble tandis que la ville souhaite dÃ©molir le restaurant et le comptoir de cupcakes pour construire un cinÃ©ma I-MAX. Pendant ce temps, Sophie fait plusieurs tests de grossesse.",
+       "distributor":null,
+       "versions":null,
+       "dubLanguages":[  
+          "English"
+       ],
+       "subLanguages":[  
+ 
+       ],
+       "MPAARating":"PG-13",
+       "metacriticRating":null,
+       "rottenTomatoesRating":null,
+       "internationalRating":null,
+       "dates":null,
+       "kidSafe":false,
+       "origin":null,
+       "posterImage300x450":"KQ_0917_2BrokeGirls_300x450.jpg",
+       "posterImage600x900":"KQ_0917_2BrokeGirls_600x900.jpg",
+       "sliderImage1024x400":"KQ_0917_2BrokeGirls_1024x400.jpg",
+       "client":"598b204a4ed0ef0100cecb44",
+       "createdAt":"2017-09-11T16:09:03.059Z",
+       "updatedAt":"2017-09-13T15:36:28.216Z",
+       "uuid":"5663ba2c2212b2137e1950655360c6545b212624",
+       "episodes":[  
+          {  
+             "collection":"Episodes",
+             "seasonNumber":5,
+             "episodeNumber":1,
+             "duration":30,
+             "title":"And The Wrecking Ball",
+             "mltitle":"Et la dÃ©molition",
+             "synopsis":"Le groupe se rassemble tandis que la ville souhaite dÃ©molir le restaurant et le comptoir de cupcakes pour construire un cinÃ©ma I-MAX. Pendant ce temps, Sophie fait plusieurs tests de grossesse.",
+             "client":"598b204a4ed0ef0100cecb44",
+             "createdAt":"2017-09-11T16:09:03.076Z",
+             "updatedAt":"2017-09-13T15:36:28.230Z",
+             "contentId":"urn:marlin:kid:f571c70424857d774e2b9e66c8452ee0",
+             "cycle":[  
+                "59b6b51fb14852010029056b"
+             ],
+             "kid":"a54b678328536c1b97ad3a11afe8d8a6",
+             "encryptedKEK":"gSKqKA33CHCy+vJaFChBNr8BYnC+mYtslS4/WCQDGrcqgEojMzBeZ7odXfCi+SOdS8Jko9jQhXWh+gHMy6ivA6VcbYOvkkufRlt3uCzB0h6v2oEKFzZdLO2/vd5dxiJs4Pj/JFyEu1GHbl6UHFGaRpctb8wQdrPSqpaG4y6xL5JVQK4M0kEfEsXjIqv+OpKNPsjXXH7eBVI01//x9nEL5olTw4oarFDuyLFAzNxJVBGz8XIC6jvThxHddKOIc/fqe3EPiZNKjlafcHnNp6F3pi3JfsGPWq68v3Soc5Tt1uiHz1RN/nb00ZameV9eZscTdsYPpoYA+YJghJ1zfMDvGw==",
+             "ms3Url":"https%3A%2F%2Fifd.aero%2Fms3%2Fv1%2Fmedia%2Ftvs%2Fuuid%2F5663ba2c2212b2137e1950655360c6545b212624%2Fseason%2F5%2Fepisode%2F1%23http%3A%2F%2Fifd.aero%2Fapi%2Fmedia%2Ftvs%2Ftvs_2brokegirls_5_1_5663ba2c2212b2137e1950655360c6545b212624%2Fmaster.m3u8",
+             "category":"",
+             "genre":"",
+             "cast":"",
+             "director":""
+          },
+          {  
+             "collection":"Episodes",
+             "seasonNumber":5,
+             "episodeNumber":2,
+             "duration":30,
+             "title":"And The Gym And Juice",
+             "mltitle":"Et le bar Ã  jus",
+             "synopsis":"Max et Caroline commencent Ã  travailler Ã  mi-temps au bar Ã  jus de la salle de sport afin de pouvoir profiter gratuitement du vestiaire aprÃ¨s avoir pris leurs pauses douche.",
+             "client":"598b204a4ed0ef0100cecb44",
+             "createdAt":"2017-09-11T16:09:03.077Z",
+             "updatedAt":"2017-09-13T15:36:28.232Z",
+             "contentId":"urn:marlin:kid:c63443b5322194d04a6b300bffd01001",
+             "cycle":[  
+                "59b6b51fb14852010029056b"
+             ],
+             "kid":"eb530930d3e961dc39c181c7453f2ba2",
+             "encryptedKEK":"hWIKTlL1H9rpL0baj/IZiJHasFfmXIEUe6zfgEy/uh2eCymTpPBUW6Mw0ULUYzUH+71x1GkKI+8P0LWnXWUJg8rwFr+HQc+QJB7BrXOm0KEjBcMeGF0lcfC/Qn9Zt0y4xPOZTupjZw6jbGjp4htB/GqFUjU++kNzqrSlAhhiydOt0b0dfz4Y11Fen7AYSbUVLYStwYF9aNcVfcSTCsDtIOfEd33AtZARw99ztIVqVNt5NwvDncxBG2KxwrtEm7S/Xz3/q1lStZnZCpEalxbUmM8xchWwAszLU1f3VtFaysazgBySoFLgAaAozphk2ndmNDVF1Nd+JVtLQCPrpPhimA==",
+             "ms3Url":"https%3A%2F%2Fifd.aero%2Fms3%2Fv1%2Fmedia%2Ftvs%2Fuuid%2F5663ba2c2212b2137e1950655360c6545b212624%2Fseason%2F5%2Fepisode%2F2%23http%3A%2F%2Fifd.aero%2Fapi%2Fmedia%2Ftvs%2Ftvs_2brokegirls_5_2_5663ba2c2212b2137e1950655360c6545b212624%2Fmaster.m3u8",
+             "category":"",
+             "genre":"",
+             "cast":"",
+             "director":""
+          }
+       ],
+       "category":"",
+       "director":""
+    },
+    {  
+       "_id":"59b6b51fd8b2d3f53d41fe15",
+       "genre":"Enfants",
+       "collection":null,
+       "title":"X-Men: Evolution",
+       "mltitle":"X-Men: Evolution",
+       "cast":"",
+       "synopsis":"La FraternitÃ© (avec Mystique en moins) s'invite au match de championnat de foot des filles.",
+       "distributor":null,
+       "versions":null,
+       "dubLanguages":[  
+          "English"
+       ],
+       "subLanguages":[  
+ 
+       ],
+       "MPAARating":"PG",
+       "metacriticRating":null,
+       "rottenTomatoesRating":null,
+       "internationalRating":null,
+       "dates":null,
+       "kidSafe":true,
+       "origin":null,
+       "posterImage300x450":"KQ_0917_XMenEvolution_300x450.jpg",
+       "posterImage600x900":"KQ_0917_XMenEvolution_600x900.jpg",
+       "sliderImage1024x400":"KQ_0917_XMenEvolution_1024x400.jpg",
+       "client":"598b204a4ed0ef0100cecb44",
+       "createdAt":"2017-09-11T16:09:03.059Z",
+       "updatedAt":"2017-09-13T15:36:28.217Z",
+       "uuid":"17606910465f344f1d0dc687a841b20306ebb405",
+       "episodes":[  
+          {  
+             "collection":"Episodes",
+             "seasonNumber":2,
+             "episodeNumber":1,
+             "duration":30,
+             "title":"Growing Pains",
+             "mltitle":"RÃ©vÃ©lation",
+             "synopsis":"La FraternitÃ© (avec Mystique en moins) s'invite au match de championnat de foot des filles.",
+             "client":"598b204a4ed0ef0100cecb44",
+             "createdAt":"2017-09-11T16:09:03.076Z",
+             "updatedAt":"2017-09-13T15:36:28.244Z",
+             "contentId":"urn:marlin:kid:fb4b3dd54715330a121a98c3896d163d",
+             "cycle":[  
+                "59b6b51fb14852010029056b"
+             ],
+             "kid":"d8a741bf619b7bbfcf0d5ee1c7d0875e",
+             "encryptedKEK":"ipFk1fSaAianRkvQLMfB/bj2BrxlVtVru1a6Lqn/2Pqo4x/MsNR5lOp/sQbFr9/sau9GBhoooaSdgx7sSWYdamAEIztaBMw4iEsBVSd2A9vGeeklc4pRp3n5MqjUCXtTSrqo7f8im5OALbP2Eo32DhDpOQqeyEFOg+NUt+BpMjmtoib4x8FxCtHNLA4cOIGNWFcTA50x0BUHHerV0rU7BaN60M9gqpfmL757180pSSjeUaOIQ/469jC8h+fPC94qOhlgdhBplzFMalXjJ39i/yi5KSENZziGWFX+l+UKrCOLUb5pmkp80hUYPBG8PTBNcxBkFe9QTL0oyBtfJGsJkQ==",
+             "ms3Url":"https%3A%2F%2Fifd.aero%2Fms3%2Fv1%2Fmedia%2Ftvs%2Fuuid%2F17606910465f344f1d0dc687a841b20306ebb405%2Fseason%2F2%2Fepisode%2F1%23http%3A%2F%2Fifd.aero%2Fapi%2Fmedia%2Ftvs%2Ftvs_xmenevolution_2_1_17606910465f344f1d0dc687a841b20306ebb405%2Fmaster.m3u8",
+             "category":"",
+             "genre":"",
+             "cast":"",
+             "director":""
+          }
+       ],
+       "category":"",
+       "director":""
+    },
+    {  
+       "_id":"59b6b51fd8b2d3f53d41fe17",
+       "genre":"Mode de vie, RÃ©alitÃ©, Voyage",
+       "collection":null,
+       "title":"Southern India, Garden of a Thousand Fragrances",
+       "mltitle":"L'Inde du Sud, Jardin de Mille Fragrances",
+       "cast":"",
+       "synopsis":"L'Inde du sud dÃ©borde de vitalitÃ© et de dynamisme, offrant de nombreuses expÃ©riences fabuleuses : les arts, les traditions, les paysages, les temples et des lieux incroyables.",
+       "distributor":null,
+       "versions":null,
+       "dubLanguages":[  
+          "English"
+       ],
+       "subLanguages":[  
+ 
+       ],
+       "MPAARating":"PG-13",
+       "metacriticRating":null,
+       "rottenTomatoesRating":null,
+       "internationalRating":null,
+       "dates":null,
+       "kidSafe":false,
+       "origin":null,
+       "posterImage300x450":"KQ_0917_SouthernIndia_300x450.jpg",
+       "posterImage600x900":"KQ_0917_SouthernIndia_600x900.jpg",
+       "sliderImage1024x400":"KQ_0917_SouthernIndia_1024x400.jpg",
+       "client":"598b204a4ed0ef0100cecb44",
+       "createdAt":"2017-09-11T16:09:03.059Z",
+       "updatedAt":"2017-09-13T15:36:28.210Z",
+       "uuid":"ef507733f614103f37e3e4c9a91925a91b351167",
+       "episodes":[  
+          {  
+             "collection":"Episodes",
+             "seasonNumber":1,
+             "episodeNumber":1,
+             "duration":30,
+             "title":"Southern India (Part 1)",
+             "mltitle":"L'Inde du Sud (PremiÃ¨re Partie)",
+             "synopsis":"L'Inde du sud dÃ©borde de vitalitÃ© et de dynamisme, offrant de nombreuses expÃ©riences fabuleuses : les arts, les traditions, les paysages, les temples et des lieux incroyables.",
+             "client":"598b204a4ed0ef0100cecb44",
+             "createdAt":"2017-09-11T16:09:03.080Z",
+             "updatedAt":"2017-09-13T15:36:28.235Z",
+             "contentId":"urn:marlin:kid:c130b4c757a83bed7b3af09bd9c4136c",
+             "cycle":[  
+                "59b6b51fb14852010029056b"
+             ],
+             "kid":"0dfec338b35173aea6140013b263d4fb",
+             "encryptedKEK":"EPyKNVppxWIebIVDugWXHPHPqU/9mEdHQd7shWt8RXjTM4dRusICnVvAsG9t56snUT6NB3m3uFnd8bD3THjPpSl0vVkAlUUUQSaH/nxJajUsv/PSZ8a3ZhTrz48C7xdmtm2fE6QmZa4Kca3bU6GUtpgwsIiviY1PPS+GxiEwFTZlI0IRt/VdMEb1kXnFWwPdwgN21qMfRP/M2QOGWWtEEY+JaD2YHm14ts0QhNju5COaXrp6uaW1JbRacTPXA81sOiFAtuWHgbfnEgStkU7pUmCVZ7hmlmQrY+lqwzjJDOsj0GFAlTuP+C0Jtyc1s2qD5iKFXMW/wNSkdToKMwG5tQ==",
+             "ms3Url":"https%3A%2F%2Fifd.aero%2Fms3%2Fv1%2Fmedia%2Ftvs%2Fuuid%2Fef507733f614103f37e3e4c9a91925a91b351167%2Fseason%2F1%2Fepisode%2F1%23http%3A%2F%2Fifd.aero%2Fapi%2Fmedia%2Ftvs%2Ftvs_southernindiagardenofathousandfragrances_1_1_ef507733f614103f37e3e4c9a91925a91b351167%2Fmaster.m3u8",
+             "category":"",
+             "genre":"",
+             "cast":"",
+             "director":""
+          }
+       ],
+       "category":"",
+       "director":""
+    },
+    {  
+       "_id":"59b6b51fd8b2d3f53d41fe19",
+       "genre":"Destinations",
+       "collection":null,
+       "title":"China (Suzhou)",
+       "mltitle":"La Chine (Suzhou)",
+       "cast":"",
+       "synopsis":"Suzhou est une ville Ã  l'ouest de Shanghai, connue pour ses canaux, ses ponts et ses jardins classiques.",
+       "distributor":null,
+       "versions":null,
+       "dubLanguages":[  
+          "English"
+       ],
+       "subLanguages":[  
+ 
+       ],
+       "MPAARating":"G",
+       "metacriticRating":null,
+       "rottenTomatoesRating":null,
+       "internationalRating":null,
+       "dates":null,
+       "kidSafe":false,
+       "origin":null,
+       "posterImage300x450":"KQ_0917_China_300x450.jpg",
+       "posterImage600x900":"KQ_0917_China_600x900.jpg",
+       "sliderImage1024x400":"KQ_0917_China_1024x400.jpg",
+       "client":"598b204a4ed0ef0100cecb44",
+       "createdAt":"2017-09-11T16:09:03.060Z",
+       "updatedAt":"2017-09-13T15:36:28.213Z",
+       "uuid":"7e6a550ba95d9e1fc11c3616618819cbba6def19",
+       "episodes":[  
+          {  
+             "collection":"Episodes",
+             "seasonNumber":1,
+             "episodeNumber":0,
+             "duration":"05",
+             "title":"China (Suzhou)",
+             "mltitle":"La Chine (Suzhou)",
+             "synopsis":"Suzhou est une ville Ã  l'ouest de Shanghai, connue pour ses canaux, ses ponts et ses jardins classiques.",
+             "client":"598b204a4ed0ef0100cecb44",
+             "createdAt":"2017-09-11T16:09:03.078Z",
+             "updatedAt":"2017-09-13T15:36:28.234Z",
+             "contentId":"urn:marlin:kid:10394c0389cc5001196c48557ee5f36d",
+             "cycle":[  
+                "59b6b51fb14852010029056b"
+             ],
+             "kid":"909a7518aef2d7e4b5fb7defbf50300b",
+             "encryptedKEK":"Hp8IFgPKWiisymAmg49lTE4czHn1JuAv4HJNMkLSneqbiRX+likor6nkZAG9sDd3qM6ZKWXIGfF88nQcXqvHLFWPDVTdFIH4wyt1UVQvAbJs3S8dpIxpOJJGvx817BXsqUHdCe6328TEh2PIM9Q4g1mSEJsT83N/RZD9rLjufq/TAkUJgtlUXoF4c0BMzWd83UIZnd1ukBTVGI00tdcAnIlAeL8NHyeS0mMxcIptDmSPWkibbSJFQnnCApl2fTm78sC2l9FGgW53sIkEbDS1raZwcNfDm87b7pJ3Dk3dG/3b71ORhufBrZQQ51iiYjlUQWJUuMDShNCc+oVr8rqPKg==",
+             "ms3Url":"https%3A%2F%2Fifd.aero%2Fms3%2Fv1%2Fmedia%2Ftvs%2Fuuid%2F7e6a550ba95d9e1fc11c3616618819cbba6def19%2Fseason%2F1%2Fepisode%2F0%23http%3A%2F%2Fifd.aero%2Fapi%2Fmedia%2Ftvs%2Ftvs_chinasuzhou_1_0_7e6a550ba95d9e1fc11c3616618819cbba6def19%2Fmaster.m3u8",
+             "category":"",
+             "genre":"",
+             "cast":"",
+             "director":""
+          }
+       ],
+       "category":"",
+       "director":""
+    },
+    {  
+       "_id":"59b6b51fd8b2d3f53d41fe1b",
+       "genre":"Affaires",
+       "collection":null,
+       "title":"Afripedia",
+       "mltitle":"Afripedia",
+       "cast":"",
+       "synopsis":"Une sÃ©rie de documentaires sur les forces crÃ©atives qui refaÃ§onnent l'image de l'Afrique au-delÃ  des stÃ©rÃ©otypes.",
+       "distributor":null,
+       "versions":null,
+       "dubLanguages":[  
+          "English"
+       ],
+       "subLanguages":[  
+ 
+       ],
+       "MPAARating":"PG-13",
+       "metacriticRating":null,
+       "rottenTomatoesRating":null,
+       "internationalRating":null,
+       "dates":null,
+       "kidSafe":false,
+       "origin":null,
+       "posterImage300x450":"KQ_0917_Afripedia_300x450.jpg",
+       "posterImage600x900":"KQ_0917_Afripedia_600x900.jpg",
+       "sliderImage1024x400":"KQ_0917_Afripedia_1024x400.jpg",
+       "client":"598b204a4ed0ef0100cecb44",
+       "createdAt":"2017-09-11T16:09:03.060Z",
+       "updatedAt":"2017-09-13T15:36:28.215Z",
+       "uuid":"c845ace1407a3308096316934fdbc7864465a275",
+       "episodes":[  
+          {  
+             "collection":"Episodes",
+             "seasonNumber":1,
+             "episodeNumber":2,
+             "duration":30,
+             "title":"Kenya",
+             "mltitle":"Kenya",
+             "synopsis":"Une sÃ©rie de documentaires sur les forces crÃ©atives qui refaÃ§onnent l'image de l'Afrique au-delÃ  des stÃ©rÃ©otypes.",
+             "client":"598b204a4ed0ef0100cecb44",
+             "createdAt":"2017-09-11T16:09:03.076Z",
+             "updatedAt":"2017-09-13T15:36:28.232Z",
+             "contentId":"urn:marlin:kid:e597e1e5b771e9e1c9b2e4806695de16",
+             "cycle":[  
+                "59b6b51fb14852010029056b"
+             ],
+             "kid":"47f6f118ad209b33c56bf433a6a00967",
+             "encryptedKEK":"QLU7abG8kVo5wIvicbcy5IPxJPcVJuGXsYKz6VHDqzLfrtDgMflx8AVRlxnPei9aI0dpBBuWK8So/mQlPiDjinPCcj5bC/OnfHt+esL4ZNpV6ojEIM+eeZRr88rz/pRIo10qeqDS66kLDoflnHCz221uct43UnmIP2rchY4TDJJhkvy4+AhVWU+sgq9vCXYJ/LmC5XjQORIfMvIIlmmxHutZ6jGDZM2G/gWDkT4mRmJuW9FW3n3q26tgWay3vefmy0DDd8N4hXxRsgJl4symw6P2A9V9gCYgngp7rGa/16wt8TL512EtQlGEBC8Yz2Vqdit241QF59Gu0Z1AJT7PtQ==",
+             "ms3Url":"https%3A%2F%2Fifd.aero%2Fms3%2Fv1%2Fmedia%2Ftvs%2Fuuid%2Fc845ace1407a3308096316934fdbc7864465a275%2Fseason%2F1%2Fepisode%2F2%23http%3A%2F%2Fifd.aero%2Fapi%2Fmedia%2Ftvs%2Ftvs_afripedia_1_2_c845ace1407a3308096316934fdbc7864465a275%2Fmaster.m3u8",
+             "category":"",
+             "genre":"",
+             "cast":"",
+             "director":""
+          }
+       ],
+       "category":"",
+       "director":""
+    },
+    {  
+       "_id":"59b6b51fd8b2d3f53d41fe1d",
+       "genre":"Drame",
+       "collection":null,
+       "title":"Rizzoli & Isles",
+       "mltitle":"Rizzoli and Isles",
+       "cast":"",
+       "synopsis":"L'Ã©quipe travaille pour les morts - et les morts-vivants - Ã  la suite d'un meurtre Ã  une convention de morts-vivants. Pendant ce temps, Angela dÃ©cide de passer son bac.",
+       "distributor":null,
+       "versions":null,
+       "dubLanguages":[  
+          "English"
+       ],
+       "subLanguages":[  
+ 
+       ],
+       "MPAARating":"PG-13",
+       "metacriticRating":null,
+       "rottenTomatoesRating":null,
+       "internationalRating":null,
+       "dates":null,
+       "kidSafe":false,
+       "origin":null,
+       "posterImage300x450":"KQ_0917_RizzoliAndIsles_300x450.jpg",
+       "posterImage600x900":"KQ_0917_RizzoliAndIsles_600x900.jpg",
+       "sliderImage1024x400":"KQ_0917_RizzoliAndIsles_1024x400.jpg",
+       "client":"598b204a4ed0ef0100cecb44",
+       "createdAt":"2017-09-11T16:09:03.060Z",
+       "updatedAt":"2017-09-13T15:36:28.216Z",
+       "uuid":"3553b9bbc9b2b56966e2fee40554a2bfeea95d20",
+       "episodes":[  
+          {  
+             "collection":"Episodes",
+             "seasonNumber":7,
+             "episodeNumber":3,
+             "duration":60,
+             "title":"Cops Vs Zombies",
+             "mltitle":"Policiers contre zombies",
+             "synopsis":"L'Ã©quipe travaille pour les morts - et les morts-vivants - Ã  la suite d'un meurtre Ã  une convention de morts-vivants. Pendant ce temps, Angela dÃ©cide de passer son bac.",
+             "client":"598b204a4ed0ef0100cecb44",
+             "createdAt":"2017-09-11T16:09:03.079Z",
+             "updatedAt":"2017-09-13T15:36:28.234Z",
+             "contentId":"urn:marlin:kid:97f24238bc525fb73be1387069b4fd2c",
+             "cycle":[  
+                "59b6b51fb14852010029056b"
+             ],
+             "kid":"af9b09894929aebb52ee0d3afebe8635",
+             "encryptedKEK":"K0Je9H4yTOvMYx4WUS3mBiCFGTEI88dWQiMVt+/AMOCCNroyaggK7INvkzm3pR8CfT7b2xRcvdx1/SoitHAT5pdtOzlmuvcSMFrccjWCZ0orEwy4AqDDooDq6Eand3RYh0hZJQkMqKWzP+xLBs7nzVxn9ADhkkPcwBsMQc4rIImiM/pN1FuIhHe8oAy/mbK9cqJnAh/G+jwxvCFodHbRGUA5HSenTlELBNIZiBpZgsfvfHWlrBg3DcYwZ4PTPePYMpPGrpDOK0h//4JER1a+W+xl39oUDk45k1kcMXHQgaXqyJFU6esJMzRPz0syHOgGW65R39PgZMDQottxXCWzPw==",
+             "ms3Url":"https%3A%2F%2Fifd.aero%2Fms3%2Fv1%2Fmedia%2Ftvs%2Fuuid%2F3553b9bbc9b2b56966e2fee40554a2bfeea95d20%2Fseason%2F7%2Fepisode%2F3%23http%3A%2F%2Fifd.aero%2Fapi%2Fmedia%2Ftvs%2Ftvs_rizzoliisles_7_3_3553b9bbc9b2b56966e2fee40554a2bfeea95d20%2Fmaster.m3u8",
+             "category":"",
+             "genre":"",
+             "cast":"",
+             "director":""
+          },
+          {  
+             "collection":"Episodes",
+             "seasonNumber":7,
+             "episodeNumber":4,
+             "duration":60,
+             "title":"Post Mortem",
+             "mltitle":"Poste mortelle",
+             "synopsis":"Lors du meurtre d'un facteur, l'Ã©quipe doit travailler avec un inspecteur postal effrontÃ© et excentrique, qui croit que le meurtre fait partie d'un complot plus vaste.",
+             "client":"598b204a4ed0ef0100cecb44",
+             "createdAt":"2017-09-11T16:09:03.081Z",
+             "updatedAt":"2017-09-13T15:36:28.236Z",
+             "contentId":"urn:marlin:kid:362798ce0cd8636d4a6f213f269f3463",
+             "cycle":[  
+                "59b6b51fb14852010029056b"
+             ],
+             "kid":"21b031447af8174a9b4fc808c76356e4",
+             "encryptedKEK":"NZqzRCntppVtFPBRd35snDZFbcqNx936qgkqN+RBBOWXKubsyFLiOx4CNGUTnG+RuQxbDJonlcVIJPACXWmL0TPt7Ju96H/rll1xo76KhrUW4p/v/mRQGdgdLPXMzD+x/1Sf03iw4lTwuj/3yCaNNou484LbKlJFPSFGVDr1XqSkIP98cg2pMT3Ei4bS/WCGdn5j+UorBS+Eq0qbScB5cO5YF8pNVSSooiNhfAE7H+4y70sTvjWuDF82EjULtvf0keSQT+r/ks8zFlpDAKXFSy7eDYhO5qvHMh8wnmBzyCzqwjlAswrxh5AtUhDOUObhsh6ayYVoVUL02Fop99M4hg==",
+             "ms3Url":"https%3A%2F%2Fifd.aero%2Fms3%2Fv1%2Fmedia%2Ftvs%2Fuuid%2F3553b9bbc9b2b56966e2fee40554a2bfeea95d20%2Fseason%2F7%2Fepisode%2F4%23http%3A%2F%2Fifd.aero%2Fapi%2Fmedia%2Ftvs%2Ftvs_rizzoliisles_7_4_3553b9bbc9b2b56966e2fee40554a2bfeea95d20%2Fmaster.m3u8",
+             "category":"",
+             "genre":"",
+             "cast":"",
+             "director":""
+          }
+       ],
+       "category":"",
+       "director":""
+    },
+    {  
+       "_id":"59b6b51fd8b2d3f53d41fe1f",
+       "genre":"ComÃ©die",
+       "collection":null,
+       "title":"The League",
+       "mltitle":"The League",
+       "cast":"",
+       "synopsis":"Kevin a du mal Ã  accepter que Jenny ait gagnÃ© le Shiva. Entre-temps, les gars assistent aux funÃ©railles.",
+       "distributor":null,
+       "versions":null,
+       "dubLanguages":[  
+          "English"
+       ],
+       "subLanguages":[  
+ 
+       ],
+       "MPAARating":"PG-13",
+       "metacriticRating":null,
+       "rottenTomatoesRating":null,
+       "internationalRating":null,
+       "dates":null,
+       "kidSafe":false,
+       "origin":null,
+       "posterImage300x450":"KQ_0917_TheLeague300x450.jpg",
+       "posterImage600x900":"KQ_0917_TheLeague600x900.jpg",
+       "sliderImage1024x400":"KQ_0917_TheLeague1024x400.jpg",
+       "client":"598b204a4ed0ef0100cecb44",
+       "createdAt":"2017-09-11T16:09:03.060Z",
+       "updatedAt":"2017-09-13T15:36:28.217Z",
+       "uuid":"4a44bb6b2537bdde870440c8303fd32aae90c941",
+       "episodes":[  
+          {  
+             "collection":"Episodes",
+             "seasonNumber":6,
+             "episodeNumber":1,
+             "duration":30,
+             "title":"Sitting Shiva",
+             "mltitle":"Sitting Shiva",
+             "synopsis":"Kevin a du mal Ã  accepter que Jenny ait gagnÃ© le Shiva. Entre-temps, les gars assistent aux funÃ©railles.",
+             "client":"598b204a4ed0ef0100cecb44",
+             "createdAt":"2017-09-11T16:09:03.078Z",
+             "updatedAt":"2017-09-13T15:36:28.233Z",
+             "contentId":"urn:marlin:kid:7fb584f0378894b8b0e79a8a22e3d333",
+             "cycle":[  
+                "59b6b51fb14852010029056b"
+             ],
+             "kid":"eec57fc15c12cb8e0c63eebb0cb9d160",
+             "encryptedKEK":"R6yJuOJ7Ow6ZyqJE/l0eTHJg7qTNH838oWG8MeQEDYlMKWDGfUes+hQ1WuVf2JOX0bPauerWQcqcApu1j5QLIhW939iAYhBtgoOSd+6Ok/dMUlbApn+NzY8JEU9l6SZzqR6eOwPqzDB02utL3NQKgvkSxS/X6Q2Z5jJLhjU5Ts0zhh0WY/hVDWTt05R8SOq60lBEfao1O3W/cFE7eHihTw75QpQA2hM+oSexxOR2w+3p0/Ez+ZEioCwsvWQsowxdJVTEKH+oM/Pyq/y55krRA/A1Ow4E9MGSzfn5EabzGITWLfTJmpKkENEBhq4VvJcfG2O64eftLFpsNVTEG+ymSQ==",
+             "ms3Url":"https%3A%2F%2Fifd.aero%2Fms3%2Fv1%2Fmedia%2Ftvs%2Fuuid%2F4a44bb6b2537bdde870440c8303fd32aae90c941%2Fseason%2F6%2Fepisode%2F1%23http%3A%2F%2Fifd.aero%2Fapi%2Fmedia%2Ftvs%2Ftvs_theleague_6_1_4a44bb6b2537bdde870440c8303fd32aae90c941%2Fmaster.m3u8",
+             "category":"",
+             "genre":"",
+             "cast":"",
+             "director":""
+          }
+       ],
+       "category":"",
+       "director":""
+    },
+    {  
+       "_id":"59b6b51fd8b2d3f53d41fe21",
+       "genre":"Enfants",
+       "collection":null,
+       "title":"The Looney Tunes Show",
+       "mltitle":"Looney Tunes Show",
+       "cast":"",
+       "synopsis":"Daffy entraÃ®ne l'Ã©quipe de water-polo de Gossamer malgrÃ© son manque d'expÃ©rience. Pendant ce temps, Bugs devient accro Ã  la cuisine malsaine et riche en beurre de Porky.",
+       "distributor":null,
+       "versions":null,
+       "dubLanguages":[  
+          "English"
+       ],
+       "subLanguages":[  
+ 
+       ],
+       "MPAARating":"G",
+       "metacriticRating":null,
+       "rottenTomatoesRating":null,
+       "internationalRating":null,
+       "dates":null,
+       "kidSafe":true,
+       "origin":null,
+       "posterImage300x450":"KQ_0917_TheLooneyTunesShow_300x450.jpg",
+       "posterImage600x900":"KQ_0917_TheLooneyTunesShow_600x900.jpg",
+       "sliderImage1024x400":"KQ_0917_TheLooneyTunesShow_1024x400.jpg",
+       "client":"598b204a4ed0ef0100cecb44",
+       "createdAt":"2017-09-11T16:09:03.061Z",
+       "updatedAt":"2017-09-13T15:36:28.211Z",
+       "uuid":"0bbaa2692fca39785404e1b8d9a55484fa71924b",
+       "episodes":[  
+          {  
+             "collection":"Episodes",
+             "seasonNumber":2,
+             "episodeNumber":1,
+             "duration":30,
+             "title":"Bobcats On Three!",
+             "mltitle":"Le lynx est un tigre",
+             "synopsis":"Daffy entraÃ®ne l'Ã©quipe de water-polo de Gossamer malgrÃ© son manque d'expÃ©rience. Pendant ce temps, Bugs devient accro Ã  la cuisine malsaine et riche en beurre de Porky.",
+             "client":"598b204a4ed0ef0100cecb44",
+             "createdAt":"2017-09-11T16:09:03.073Z",
+             "updatedAt":"2017-09-13T15:36:28.232Z",
+             "cycle":[  
+                "59b6b51fb14852010029056b"
+             ],
+             "contentId":"urn:marlin:kid:23400c3ebff7fe39b5a398075f9c419f",
+             "kid":"e7880320a29e68ad8e44aeb3fc632f1f",
+             "encryptedKEK":"hMDKRhS5IgK5PQy4Blm/wYh0GkwFRQJoVnF/U9r/Lx+b1RL52IJ/sb0ikeo+MUBTPdAdO1oNF8FFq/UKHnbNB5iN4rIdrKkqNIGq42hKvysqp6AVkZQv62NjWHdXC4fPvan7TSM2DZfQBvSu1+EXYWgHI4gb5lSSeHk5bgiU9jH92jOKGcyHXDepFW8ks9WcQa9MfogUg9M1Sd6J4EzKUko41FvIGq7c3O+eMTvpvPXZioRPakSIwEjNxUHGfeyUasVv5bP5mcyCjRbVT6bfXcXa+B9tI/GmSbSs5fPs2ab7V8UiYnc4aN0Xwl3dHon7gt9Ovf+ZgUPY7RX6KYaB8Q==",
+             "ms3Url":"https%3A%2F%2Fifd.aero%2Fms3%2Fv1%2Fmedia%2Ftvs%2Fuuid%2F0bbaa2692fca39785404e1b8d9a55484fa71924b%2Fseason%2F2%2Fepisode%2F1%23http%3A%2F%2Fifd.aero%2Fapi%2Fmedia%2Ftvs%2Ftvs_thelooneytunesshow_2_1_0bbaa2692fca39785404e1b8d9a55484fa71924b%2Fmaster.m3u8",
+             "category":"",
+             "genre":"",
+             "cast":"",
+             "director":""
+          }
+       ],
+       "category":"",
+       "director":""
+    },
+    {  
+       "_id":"59b6b51fd8b2d3f53d41fe23",
+       "genre":"Mode de vie, RÃ©alitÃ©, Voyage",
+       "collection":null,
+       "title":"Bazaar",
+       "mltitle":"Bazaar",
+       "cast":"",
+       "synopsis":"Chic et sophistiquÃ©, Florence a Ã©tÃ© au centre de la mode et du prestige depuis 500 ans. KT Comer dÃ©couvre que l'esprit de la Renaissance ne s'y est jamais Ã©teint.",
+       "distributor":null,
+       "versions":null,
+       "dubLanguages":[  
+          "English"
+       ],
+       "subLanguages":[  
+ 
+       ],
+       "MPAARating":"PG-13",
+       "metacriticRating":null,
+       "rottenTomatoesRating":null,
+       "internationalRating":null,
+       "dates":null,
+       "kidSafe":false,
+       "origin":null,
+       "posterImage300x450":"KQ_0917_Bazaar_300x450.jpg",
+       "posterImage600x900":"KQ_0917_Bazaar_600x900.jpg",
+       "sliderImage1024x400":"KQ_0917_Bazaar_1024x400.jpg",
+       "client":"598b204a4ed0ef0100cecb44",
+       "createdAt":"2017-09-11T16:09:03.061Z",
+       "updatedAt":"2017-09-13T15:36:28.213Z",
+       "uuid":"922e5da8e4aebdd67414c0376b46f3135af52972",
+       "episodes":[  
+          {  
+             "collection":"Episodes",
+             "seasonNumber":1,
+             "episodeNumber":13,
+             "duration":30,
+             "title":"Florence",
+             "mltitle":"Florence",
+             "synopsis":"Chic et sophistiquÃ©, Florence a Ã©tÃ© au centre de la mode et du prestige depuis 500 ans. KT Comer dÃ©couvre que l'esprit de la Renaissance ne s'y est jamais Ã©teint.",
+             "client":"598b204a4ed0ef0100cecb44",
+             "createdAt":"2017-09-11T16:09:03.080Z",
+             "updatedAt":"2017-09-13T15:36:28.230Z",
+             "contentId":"urn:marlin:kid:bcd1f49f45fddb33d7ef03c1cce408f4",
+             "cycle":[  
+                "59b6b51fb14852010029056b"
+             ],
+             "kid":"d1114c09f630d0bb398726b9e0040e2d",
+             "encryptedKEK":"Yne2SPcttRze417pAGSZ+cI/mRWS7vAkoLgRQ8r7u6B2UM86JCVDwrwp5FxEztvYSNrXhOIjr0kIKANd1jlNo6akAC4ryf3dpVyArLgGyMkwlLPB2KuMr58ONlzyWB/GrLOGDhciA38f7J6o8BYY8Y3pgnfTAvvJ8nIFN9+osKUDIHtVZ7AfzeopNLUCyRaEpeWUT7ArWnb5pK82cTw73+KRiuJ5njLn9G/hrMf69Ppt7cfvmVhDMvJ52wIHS87SGtQ9Nc7P3fE1BDfuaIvtZpvYMu7VB6iICWlgZKwVRhBabE3DYiMHosiOHtwo9L37KhB066k6Ok4u98hVleIkfg==",
+             "ms3Url":"https%3A%2F%2Fifd.aero%2Fms3%2Fv1%2Fmedia%2Ftvs%2Fuuid%2F922e5da8e4aebdd67414c0376b46f3135af52972%2Fseason%2F1%2Fepisode%2F13%23http%3A%2F%2Fifd.aero%2Fapi%2Fmedia%2Ftvs%2Ftvs_bazaar_1_13_922e5da8e4aebdd67414c0376b46f3135af52972%2Fmaster.m3u8",
+             "category":"",
+             "genre":"",
+             "cast":"",
+             "director":""
+          }
+       ],
+       "category":"",
+       "director":""
+    },
+    {  
+       "_id":"59b6b51fd8b2d3f53d41fe25",
+       "genre":"Destinations",
+       "collection":null,
+       "title":"India",
+       "mltitle":"L'Inde",
+       "cast":"",
+       "synopsis":"L'Inde est un vaste pays d'Asie du sud aux paysages divers â€“ des sommets de l'Himalaya Ã  la cÃ´te de l'ocÃ©an Indien â€“ chargÃ© d'une histoire de plus de cinq mille ans.",
+       "distributor":"",
+       "versions":"",
+       "dubLanguages":[  
+ 
+       ],
+       "subLanguages":[  
+ 
+       ],
+       "MPAARating":"G",
+       "metacriticRating":null,
+       "rottenTomatoesRating":null,
+       "internationalRating":"",
+       "dates":"",
+       "kidSafe":false,
+       "origin":"",
+       "posterImage300x450":"KQ_0917_India_300x450.jpg",
+       "posterImage600x900":"KQ_0917_India_600x900.jpg",
+       "sliderImage1024x400":"KQ_0917_India_1024x400.jpg",
+       "client":"598b204a4ed0ef0100cecb44",
+       "createdAt":"2017-09-11T16:09:03.061Z",
+       "updatedAt":"2017-09-13T15:36:28.221Z",
+       "uuid":"fc7b366327b86169ed55347bfe6937ca5b5a89a5",
+       "trailer":"",
+       "type":"",
+       "__v":1,
+       "episodes":[  
+          {  
+             "collection":"Episodes",
+             "seasonNumber":1,
+             "episodeNumber":0,
+             "duration":"05",
+             "title":"India",
+             "mltitle":"L'Inde",
+             "synopsis":"L'Inde est un vaste pays d'Asie du sud aux paysages divers â€“ des sommets de l'Himalaya Ã  la cÃ´te de l'ocÃ©an Indien â€“ chargÃ© d'une histoire de plus de cinq mille ans.",
+             "client":"598b204a4ed0ef0100cecb44",
+             "createdAt":"2017-09-11T16:09:03.077Z",
+             "updatedAt":"2017-09-13T15:36:28.244Z",
+             "cycle":[  
+                "59b6b51fb14852010029056b"
+             ],
+             "contentId":"urn:marlin:kid:6926b88885b4ef56a7dcfee03f0ab4de",
+             "kid":"38e6b92b8a95f90bc01e88096acdb7f2",
+             "encryptedKEK":"e1CA3zzsLij2sTh/f5cKw7RKus2aejA3XWQtlX4crxamy5aDqKh7uGIsIRpauzgj31KStN10FyiOemspq++ABQxpW/HuhsJIb9ZUmkluW5lo2MLocxN5Xmx8WwCA2HRgKcaF5A6gHyH3f9MCPyEqUm4Ptj8bbvriVPTCnF8ZlsjOX6mHruooAWPoLRlSEjtacyZQ7iPRCecBygRqLnloXj8vBb+20MqKkSGVdDTF9sZYgU4Lwqo2XZ1I8SehvBguN9qndOCNftRi18Rfno/MelloHK2qu9IeLkt6XvlSPpe8uP3vAiGWOila+GBqJiOwm9TJCPxbTyAZLi/HzQWALQ==",
+             "ms3Url":"https%3A%2F%2Fifd.aero%2Fms3%2Fv1%2Fmedia%2Ftvs%2Fuuid%2Ffc7b366327b86169ed55347bfe6937ca5b5a89a5%2Fseason%2F1%2Fepisode%2F0%23http%3A%2F%2Fifd.aero%2Fapi%2Fmedia%2Ftvs%2Ftvs_india_1_0_fc7b366327b86169ed55347bfe6937ca5b5a89a5%2Fmaster.m3u8",
+             "category":"",
+             "genre":"",
+             "cast":"",
+             "director":""
+          }
+       ],
+       "category":"",
+       "director":""
+    },
+    {  
+       "_id":"59b6b51fd8b2d3f53d41fe27",
+       "genre":"Affaires",
+       "collection":null,
+       "title":"Tech Transformers",
+       "mltitle":"Tech Transformers",
+       "cast":"",
+       "synopsis":"Tania Bryer discute avec la superstar Will.i.am, qui Ã©voque ses passions, son passÃ© et sa vision de la rÃ©volution technologique.",
+       "distributor":null,
+       "versions":null,
+       "dubLanguages":[  
+          "English"
+       ],
+       "subLanguages":[  
+ 
+       ],
+       "MPAARating":"PG-13",
+       "metacriticRating":null,
+       "rottenTomatoesRating":null,
+       "internationalRating":null,
+       "dates":null,
+       "kidSafe":false,
+       "origin":null,
+       "posterImage300x450":"KQ_0917_TechTransformers_300x450.jpg",
+       "posterImage600x900":"KQ_0917_TechTransformers_600x900.jpg",
+       "sliderImage1024x400":"KQ_0917_TechTransformers_1024x400.jpg",
+       "client":"598b204a4ed0ef0100cecb44",
+       "createdAt":"2017-09-11T16:09:03.061Z",
+       "updatedAt":"2017-09-13T15:36:28.216Z",
+       "uuid":"8065ad0542924ab7303592495b3d24c9ecfc1c3b",
+       "episodes":[  
+          {  
+             "collection":"Episodes",
+             "seasonNumber":1,
+             "episodeNumber":5,
+             "duration":30,
+             "title":"Will.i.am",
+             "mltitle":"Will.i.am",
+             "synopsis":"Tania Bryer discute avec la superstar Will.i.am, qui Ã©voque ses passions, son passÃ© et sa vision de la rÃ©volution technologique.",
+             "client":"598b204a4ed0ef0100cecb44",
+             "createdAt":"2017-09-11T16:09:03.074Z",
+             "updatedAt":"2017-09-13T15:36:28.231Z",
+             "contentId":"urn:marlin:kid:3e25fe2f4a96c8b8a732b6254877d122",
+             "cycle":[  
+                "59b6b51fb14852010029056b"
+             ],
+             "kid":"48a03207c9d8db309ae36ac58b65c239",
+             "encryptedKEK":"XDKjjai9hqz1ewJLJ/HOQ9/F5NSBSBLawtouYHNpevQ6LJik6KT5PlPHziX/dPJyVB2DDkH94RifbJ/hVSidBzbMPnAaxgPH5VjUvD+Ish4JgP99Xic+n/j8jCke/RMWM8lfOPgiXCLLDn+yhz8kGgQIo5YiEvUE1sWZa+nMIWkn5MUHv8DEycCQaIoAE4Fp5gZO+Yo/pQrs3VmSfHQwoCUhkRtASxMBKBupo9+ordMy4KnLy08xyCkuIaD4L7al+vT1rMqj6XWSaYqqX1RMITPdtDYSupcfLvquwY0086njECE4QI+TBux7PDgbDHEEeZr48xbP+5NxERDDzxnMQA==",
+             "ms3Url":"https%3A%2F%2Fifd.aero%2Fms3%2Fv1%2Fmedia%2Ftvs%2Fuuid%2F8065ad0542924ab7303592495b3d24c9ecfc1c3b%2Fseason%2F1%2Fepisode%2F5%23http%3A%2F%2Fifd.aero%2Fapi%2Fmedia%2Ftvs%2Ftvs_techtransformers_1_5_8065ad0542924ab7303592495b3d24c9ecfc1c3b%2Fmaster.m3u8",
+             "category":"",
+             "genre":"",
+             "cast":"",
+             "director":""
+          }
+       ],
+       "category":"",
+       "director":""
+    },
+    {  
+       "_id":"59b6b51fd8b2d3f53d41fe29",
+       "genre":"Drame",
+       "collection":null,
+       "title":"Person Of Interest",
+       "mltitle":"Person Of Interest",
+       "cast":"",
+       "synopsis":"Reese, Shaw et Finch arrivent trop tard pour le dernier numÃ©ro, Leona Wainwright, qui est tuÃ©e devant les yeux de Reese et Shaw.",
+       "distributor":null,
+       "versions":null,
+       "dubLanguages":[  
+          "English"
+       ],
+       "subLanguages":[  
+ 
+       ],
+       "MPAARating":"PG-13",
+       "metacriticRating":null,
+       "rottenTomatoesRating":null,
+       "internationalRating":null,
+       "dates":null,
+       "kidSafe":false,
+       "origin":null,
+       "posterImage300x450":"KQ_0917_PersonOfInterest_300x450.jpg",
+       "posterImage600x900":"KQ_0917_PersonOfInterest_600x900.jpg",
+       "sliderImage1024x400":"KQ_0917_PersonOfInterest_1024x400.jpg",
+       "client":"598b204a4ed0ef0100cecb44",
+       "createdAt":"2017-09-11T16:09:03.062Z",
+       "updatedAt":"2017-09-13T15:36:28.218Z",
+       "uuid":"06c073064b472cdafc14daced49570894e41cf52",
+       "episodes":[  
+          {  
+             "collection":"Episodes",
+             "seasonNumber":3,
+             "episodeNumber":19,
+             "duration":60,
+             "title":"Most Likely Toâ€¦",
+             "mltitle":"Une soirÃ©e inoubliable",
+             "synopsis":"Reese, Shaw et Finch arrivent trop tard pour le dernier numÃ©ro, Leona Wainwright, qui est tuÃ©e devant les yeux de Reese et Shaw.",
+             "client":"598b204a4ed0ef0100cecb44",
+             "createdAt":"2017-09-11T16:09:03.079Z",
+             "updatedAt":"2017-09-13T15:36:28.231Z",
+             "contentId":"urn:marlin:kid:d31f4d77d47928d9a9f982073f341be5",
+             "cycle":[  
+                "59b6b51fb14852010029056b"
+             ],
+             "kid":"81fe9c631ca3e62d75cdd491c01a9d99",
+             "encryptedKEK":"B4LcbxBmVpcRxAns4JCI43Qcfis6W++wDgGB7tOxui3rrcrtNbt9jCcVPtjO0TFg2AOoNDGGufYeofmR4At3MYrICf3262qP3BK3sEG3gmANyfzIJCFP8Z8q89G3/74Iosr8v99D19jt1xxQwT4xgPxCYHEM2F3dOnhO8bEw/Z82ILQDgqI08isvLGHGPTM6NthvFr8B4OxQj09hPyGniU0eliZsKUNS8omlNkuSLhXTB3nf3Stf8Lz+jPSs7TQ29yeJsDk6JJou44tHbp15lhZFp3Y91mCm7kkG9nNrQ42XRRMJvTSU5V4Wv0xTKK/FzbAs2rqSyeRdSyIxfuZUIg==",
+             "ms3Url":"https%3A%2F%2Fifd.aero%2Fms3%2Fv1%2Fmedia%2Ftvs%2Fuuid%2F06c073064b472cdafc14daced49570894e41cf52%2Fseason%2F3%2Fepisode%2F19%23http%3A%2F%2Fifd.aero%2Fapi%2Fmedia%2Ftvs%2Ftvs_personofinterest_3_19_06c073064b472cdafc14daced49570894e41cf52%2Fmaster.m3u8",
+             "category":"",
+             "genre":"",
+             "cast":"",
+             "director":""
+          },
+          {  
+             "collection":"Episodes",
+             "seasonNumber":3,
+             "episodeNumber":20,
+             "duration":60,
+             "title":"Death Benefit",
+             "mltitle":"Le Dilemme",
+             "synopsis":"Les mÃ©dias reÃ§oivent des nouvelles concernant le projet Northern Lights, rendant le travail plus difficile pour l'Ã©quipe, ne serait-ce qu'Ã  cause de l'attention du public sur ce qui se produit.",
+             "client":"598b204a4ed0ef0100cecb44",
+             "createdAt":"2017-09-11T16:09:03.081Z",
+             "updatedAt":"2017-09-13T15:36:28.233Z",
+             "contentId":"urn:marlin:kid:e5b0e122eb9015acff90cba538431614",
+             "cycle":[  
+                "59b6b51fb14852010029056b"
+             ],
+             "kid":"02f194f9f43c1df2b6b0bc481e34dcf1",
+             "encryptedKEK":"eX7hISOsY4s1s5IKrvXFDgLAf+cmHt17q8VjnxNwShIWwgwTMmJl9zqPcOlyhiNVzm+XK9WaRqJdxzQu6dgCie3xBezsreeHtOgRjCQtSuCHRe+feHbNG6SYLhCbI81JA/8pJUKuBW8aqzMfJOF4+wmAgBV1TR3svcuXR71xNWL8wtSWb1V50dbEnJ0oqc6aC5IY2sVoAqHmyAiew5dZyZCSWgVxqPIq9TKJzVSiXoNTqXo6rk5szGOIKLCpDpGq+PylhLbvFUw1TWY5IYOhM4RE9xe3CLjjIoN1YXjURuKTUiPBc7i61yeETh70qcS7qWqk7oQPgs21WVoeUAKSPw==",
+             "ms3Url":"https%3A%2F%2Fifd.aero%2Fms3%2Fv1%2Fmedia%2Ftvs%2Fuuid%2F06c073064b472cdafc14daced49570894e41cf52%2Fseason%2F3%2Fepisode%2F20%23http%3A%2F%2Fifd.aero%2Fapi%2Fmedia%2Ftvs%2Ftvs_personofinterest_3_20_06c073064b472cdafc14daced49570894e41cf52%2Fmaster.m3u8",
+             "category":"",
+             "genre":"",
+             "cast":"",
+             "director":""
+          }
+       ],
+       "category":"",
+       "director":""
+    },
+    {  
+       "_id":"59b6b51fd8b2d3f53d41fe2b",
+       "genre":"Drame",
+       "collection":null,
+       "title":"The Mentalist",
+       "mltitle":"Mentalist",
+       "cast":"",
+       "synopsis":"Jane craint pour la sÃ©curitÃ© de Lisbon lorsque l'Ã©quipe se met en ligne de mire pour protÃ©ger le tÃ©moin dans une enquÃªte pour meurtre par un assassin chevronnÃ©.",
+       "distributor":null,
+       "versions":null,
+       "dubLanguages":[  
+          "English"
+       ],
+       "subLanguages":[  
+ 
+       ],
+       "MPAARating":"PG-13",
+       "metacriticRating":null,
+       "rottenTomatoesRating":null,
+       "internationalRating":null,
+       "dates":null,
+       "kidSafe":false,
+       "origin":null,
+       "posterImage300x450":"KQ_0917_TheMentalist_300x450.jpg",
+       "posterImage600x900":"KQ_0917_TheMentalist_600x900.jpg",
+       "sliderImage1024x400":"KQ_0917_TheMentalist_1024x400.jpg",
+       "client":"598b204a4ed0ef0100cecb44",
+       "createdAt":"2017-09-11T16:09:03.065Z",
+       "updatedAt":"2017-09-13T15:36:28.221Z",
+       "uuid":"b2412346d032191d39a2351f30d5ec060f23157f",
+       "episodes":[  
+          {  
+             "collection":"Episodes",
+             "seasonNumber":7,
+             "episodeNumber":8,
+             "duration":60,
+             "title":"The Whites of His Eyes",
+             "mltitle":"Jeu de traque",
+             "synopsis":"Jane craint pour la sÃ©curitÃ© de Lisbon lorsque l'Ã©quipe se met en ligne de mire pour protÃ©ger le tÃ©moin dans une enquÃªte pour meurtre par un assassin chevronnÃ©.",
+             "client":"598b204a4ed0ef0100cecb44",
+             "createdAt":"2017-09-11T16:09:03.104Z",
+             "updatedAt":"2017-09-13T15:36:28.244Z",
+             "contentId":"urn:marlin:kid:e77f32b427a99d63c20432eac18a757f",
+             "cycle":[  
+                "59b6b51fb14852010029056b"
+             ],
+             "kid":"9bec31f2f1a747558c3c9facd172925e",
+             "encryptedKEK":"BKlzEr9mFIHsoOzkgcw2emRcVWOo4bJaK5BdgCpIie53RyvC667a8aEUJVO8x1plD/yuegvXmVFXlxQjT2egOl7T3mNB1qBZLyLW3q9vAhdoHTUAeQvMof8fZKxVdRiH46YfsEn3OqKpdavgOzhLDWL/jK4KCGNJ1ecMNtEwMmnG/YGpVj3XqcSYSwBavFdiypBsennk+NUFKwf62teb7Z93HtluHidDflgTOq9TcOenaZlinjXm6hLjISvbNZtvabaBpOz2/oCUE/PLBDAviNbA/attnt2ch0elEYoQW3eUn7dl/5BfxD+dUF2Yi/EJUF9z64wpn3GLiZi5hoc3Jw==",
+             "ms3Url":"https%3A%2F%2Fifd.aero%2Fms3%2Fv1%2Fmedia%2Ftvs%2Fuuid%2Fb2412346d032191d39a2351f30d5ec060f23157f%2Fseason%2F7%2Fepisode%2F8%23http%3A%2F%2Fifd.aero%2Fapi%2Fmedia%2Ftvs%2Ftvs_thementalist_7_8_b2412346d032191d39a2351f30d5ec060f23157f%2Fmaster.m3u8",
+             "category":"",
+             "genre":"",
+             "cast":"",
+             "director":""
+          },
+          {  
+             "collection":"Episodes",
+             "seasonNumber":7,
+             "episodeNumber":9,
+             "duration":60,
+             "title":"Copper Bullet",
+             "mltitle":"Une occasion en or",
+             "synopsis":"L'agent Peterson veut utiliser les informations incriminantes dont il dispose concernant Abbott pour empÃªcher la nomination de sa femme. Patrick et le reste de l'Ã©quipe mettent donc en Å“uvre un plan pour le sauver.",
+             "client":"598b204a4ed0ef0100cecb44",
+             "createdAt":"2017-09-11T16:09:03.104Z",
+             "updatedAt":"2017-09-13T15:36:28.244Z",
+             "contentId":"urn:marlin:kid:be2960867b90f1c8bb465d765121a619",
+             "cycle":[  
+                "59b6b51fb14852010029056b"
+             ],
+             "kid":"6dfe2ee22960d193918177f488e13501",
+             "encryptedKEK":"ZhJhS7wqML09vtiKWfGHnA2JoycUxTA7/Ow/ALicWqwaXr9twgJz0jWr/tTwLr3pDkLEFwpSCAFzjOJqzLIiLsTh3bxI6+2uDOhA6lnfcmQ3WGv2icDGQBJWAKVU+rfIfhBytpSKNkydlmcVy8c94MrfO20mFm1Q+qx0YokjcB0HU5o3P5Br6v7bOg0VCq7yv8tNSn4UBM05oFCF/o6WL2vuJiCmyb1pmWQ86OugOCKDME3lACMyebKMYjFYcoxxAG6QdMfVLBEHOJcft6DTgfhZgVHI+Acj/j0ffh+Uhy98pdh6Q8pMFc3Eu205Uh6Wi0/tTa+/tZZ8UlMXaIrAAg==",
+             "ms3Url":"https%3A%2F%2Fifd.aero%2Fms3%2Fv1%2Fmedia%2Ftvs%2Fuuid%2Fb2412346d032191d39a2351f30d5ec060f23157f%2Fseason%2F7%2Fepisode%2F9%23http%3A%2F%2Fifd.aero%2Fapi%2Fmedia%2Ftvs%2Ftvs_thementalist_7_9_b2412346d032191d39a2351f30d5ec060f23157f%2Fmaster.m3u8",
+             "category":"",
+             "genre":"",
+             "cast":"",
+             "director":""
+          }
+       ],
+       "category":"",
+       "director":""
+    }
+ ]

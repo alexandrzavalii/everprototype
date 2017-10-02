@@ -1,0 +1,214 @@
+[
+  {
+    "name": "discover",
+    "type": "tablet",
+    "layout": [
+      {
+        "col": 0,
+        "row": 0,
+        "size_x": 2,
+        "size_y": 4,
+        "type": "entertainment.movies",
+        "images": "assets/images/ipadMoviesImg.png 1x,assets/images/ipadMoviesImg@2x.png 2x,assets/images/ipadMoviesImg@3x.png 3x",
+        "arrow_location": "",
+        "link_display": "",
+        "isPanel": "false",
+        "text": {
+          "English": "Movies",
+          "French": "Films",
+          "Chinese": "电影"
+        },
+        "link": {
+          "English": ""
+        }
+      },
+      {
+        "col": 2,
+        "row": 0,
+        "size_x": 1,
+        "size_y": 2,
+        "type": "entertainment.tv",
+        "id": "",
+        "images": "assets/images/ipadTvImg.png 1x,assets/images/ipadTvImg@2x.png 2x,assets/images/ipadTvImg@3x.png 3x",
+        "arrow_location": "",
+        "link_display": "",
+        "isPanel": "false",
+        "text": {
+          "English": "TV Shows",
+          "French": "Séries TV",
+          "Chinese": "电视剧"
+        },
+        "link": {
+          "English": ""
+        }
+      },
+      {
+        "col": 3,
+        "row": 0,
+        "size_x": 1,
+        "size_y": 2,
+        "type": "entertainment.audio",
+        "id": "",
+        "images": "assets/images/ipadAudioImg.png 1x,assets/images/ipadAudioImg@2x.png 2x,assets/images/ipadAudioImg@3x.png 3x",
+        "arrow_location": "",
+        "link_display": "",
+        "isPanel": "false",
+        "text": {
+          "English":"Audio",
+          "French": "Audio",
+          "Chinese": "音频"
+        },
+        "link": {
+          "English": ""
+        }
+      },
+      {
+        "col": 2,
+        "row": 2,
+        "size_x": 1,
+        "size_y": 2,
+        "type": "information.about",
+        "images": "assets/images/ipadKqImg.png 1x,assets/images/ipadKqImg@2x.png 2x,assets/images/ipadKqImg@3x.png 3x",
+        "arrow_location": "",
+        "link_display": "",
+        "isPanel": "false",
+        "text": {
+          "English": "Kenya Airways",
+          "French": "Kenya Airways",
+          "Chinese": "肯尼亚航空"
+        },
+        "link": {
+          "English": ""
+        }
+      },
+      {
+        "col": 3,
+        "row": 2,
+        "size_x": 1,
+        "size_y": 2,
+        "type": "dutyfree",
+        "file": "KQ_DutyFree.pdf",
+        "images": "assets/images/ipadDutyFreeImg.png 1x,assets/images/ipadDutyFreeImg@2x.png 2x,assets/images/ipadDutyFreeImg@3x.png 3x",
+        "arrow_location": "",
+        "link_display": "",
+        "isPanel": "false",
+        "text": {
+          "English": "Duty Free",
+          "French": "Duty Free",
+          "Chinese": "免税"
+        },
+        "link": {
+          "English": ""
+        }
+      }
+    ],
+    "client": "57d91396c7920f01008e3552"
+  },
+  {
+    "name": "discover",
+    "type": "mobile",
+    "layout": [
+      {
+        "col": 0,
+        "row": 0,
+        "size_x": 5,
+        "size_y": 2,
+        "type": "entertainment.movies",
+        "images": "assets/images/iphoneMoviesImg.png 1x,assets/images/iphoneMoviesImg@2x.png 2x,assets/images/iphoneMoviesImg@3x.png 3x",
+        "arrow_location": "",
+        "link_display": "",
+        "isPanel": "false",
+        "text": {
+          "English": "Movies",
+          "French": "Films",
+          "Chinese": "电影"
+        },
+        "link": {
+          "English": ""
+        }
+      },
+      {
+        "col": 0,
+        "row": 2,
+        "size_x": 5,
+        "size_y": 2,
+        "type": "entertainment.tv",
+        "images": "assets/images/iphoneTvImg.png 1x,assets/images/iphoneTvImg@2x.png 2x,assets/images/iphoneTvImg@3x.png 3x",
+        "arrow_location": "",
+        "link_display": "",
+        "isPanel": "false",
+        "text": {
+          "English": "TV Shows",
+          "French": "Séries TV",
+          "Chinese": "电视剧"
+        },
+        "link": {
+          "E": "",
+          "English": ""
+        }
+      },
+      {
+        "col": 0,
+        "row": 4,
+        "size_x": 5,
+        "size_y": 2,
+        "type": "entertainment.audio",
+        "id": "",
+        "images": "assets/images/iphoneAudioImg.png 1x,assets/images/iphoneAudioImg@2x.png 2x,assets/images/iphoneAudioImg@3x.png 3x",
+        "arrow_location": "",
+        "link_display": "",
+        "isPanel": "false",
+        "text": {
+          "English":"Audio",
+          "French": "Audio",
+          "Chinese": "音频"
+        },
+        "link": {
+          "English": ""
+        }
+      },
+      {
+        "col": 0,
+        "row": 6,
+        "size_x": 5,
+        "size_y": 2,
+        "type": "information.about",
+        "images": "assets/images/iphoneKqImg.png 1x,assets/images/iphoneKqImg@2x.png 2x,assets/images/iphoneKqImg@3x.png 3x",
+        "arrow_location": "",
+        "link_display": "",
+        "isPanel": "false",
+        "text": {
+          "English": "Kenya Airways",
+          "French": "Kenya Airways",
+          "Chinese": "肯尼亚航空"
+        },
+        "link": {
+          "E": "",
+          "English": ""
+        }
+      },
+      {
+        "col": 0,
+        "row": 8,
+        "size_x": 5,
+        "size_y": 2,
+        "type": "dutyfree",
+        "file": "KQ_DutyFree.pdf",
+        "images": "assets/images/iphoneDutyFreeImg.png 1x,assets/images/iphoneDutyFreeImg@2x.png 2x,assets/images/iphoneDutyFreeImg@3x.png 3x",
+        "arrow_location": "",
+        "link_display": "",
+        "isPanel": "false",
+        "text": {
+          "English": "Duty Free",
+          "French": "Duty Free",
+          "Chinese": "免税"
+        },
+        "link": {
+          "E": "",
+          "English": ""
+        }
+      }
+    ],
+    "client": "57d91396c7920f01008e3552"
+  }
+]
