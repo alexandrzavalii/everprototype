@@ -7,7 +7,7 @@ class Sections extends Component{
 
     renderMenu(){
         return (
-            <ul>
+            <ul className="sections">
             <li><Link to='/entertainment'>Entertainment</Link></li>
             <li><Link to='/discover'>Discover</Link></li>
           </ul>
@@ -16,7 +16,7 @@ class Sections extends Component{
 
     render() {
             return(
-                <Route exact path='/*' component={this.renderMenu}/>
+                this.renderMenu()
             );
     }
 }

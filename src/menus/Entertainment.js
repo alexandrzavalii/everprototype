@@ -18,7 +18,6 @@ class Entertainment extends Component {
     render() {
             return(
                 <Switch>
-                <Route exact path='/entertainment' component={this.renderMenu}/>
                 <Route exact path='/' component={this.renderMenu}/>
                 </Switch>
                 

@@ -8,11 +8,8 @@ class Grid extends Component{
     render(){
             return(
                 <div>
-                    This is grid
-                  <ul>
                     <Entertainment/>
                     <Discover />
-                  </ul>
                 </div>
             );
     }

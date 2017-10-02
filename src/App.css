@@ -35,3 +35,11 @@
   background-color: darkblue;
   padding-top: 30px;
 }
+
+.sections{
+  display: inline;
+}
+.sections li {
+  display: inline;
+  margin: 30px;
+}
